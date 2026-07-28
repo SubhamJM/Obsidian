@@ -51,4 +51,4 @@ for epoch in range(epochs):
 	model.bias.grad.zero_()
 ```
 
-> with **torch.no_grad()** part is very important as updating the values __without it will cause the calculation__ to come under the computation graph
+> with **torch.no_grad()** part is very important as updating the values _without it will cause the calculation_ to come under the computation graph
