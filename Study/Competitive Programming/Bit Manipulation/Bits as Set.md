@@ -3,4 +3,15 @@
 - representing numebrs based on their value to position mapping
 
 **Example**:
-{1, 3, 4, 8} set can be represented as 10001101 a
+{1, 3, 4, 8} set can be represented as 10001101 as an 8 bit string
+
+> So in integers we can store a total of 32 bits inside of a set
+
+- to get the bitstring from the numbers:
+
+```cpp
+for (int i = 31; i >= 0; i--) {
+if (x&(1<<i)) cout << "1";
+else cout << "0";
+}
+```
