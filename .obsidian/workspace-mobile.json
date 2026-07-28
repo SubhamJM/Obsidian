@@ -11,10 +11,14 @@
             "id": "9940fac5f4b88387",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Study/Machine Learning/Cross-Validation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cross-Validation"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Study/Machine Learning/Cross-Validation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Study/Machine Learning/Cross-Validation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Study/Machine Learning/Cross-Validation.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,6 +171,7 @@
   },
   "active": "9940fac5f4b88387",
   "lastOpenFiles": [
+    "Study/Machine Learning/Bias-Variance Tradeoff.md",
     "Study/Transformers/Attention Is All You Need.md",
     "Study/Pytorch/Tensors.md",
     "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
@@ -172,7 +180,6 @@
     "Study/Machine Learning/Regularization.md",
     "Study/Machine Learning/Overfitting.md",
     "Study/Machine Learning/Cross-Validation.md",
-    "Study/Machine Learning/Bias-Variance Tradeoff.md",
     "Study/Competitive Programming/Bit Manipulation.md",
     "Attachments/underfitting_vs_overfitting.png",
     "Attachments/Transformer_Architecture.png",
