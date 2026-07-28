@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cb3a69475459f5c",
+        "id": "a2125088bacaf3ed",
         "type": "tabs",
         "children": [
           {
-            "id": "769e1879b383d279",
+            "id": "95e98f772b853ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
+                "file": "Study/Competitive Programming/Range Queries/Range Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bits as Set"
+              "title": "Range Queries"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "d6015490aa681d66",
         "type": "tabs",
+        "dimension": 70.08928571428571,
         "children": [
           {
             "id": "d43192d997da978e",
@@ -72,6 +73,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6749f9fe519714c1",
+        "type": "tabs",
+        "dimension": 29.910714285714285,
+        "children": [
+          {
+            "id": "769e1879b383d279",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -156,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
+                "file": "Study/Competitive Programming/Range Queries/Range Queries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bits as Set"
+              "title": "Outline of Range Queries"
             }
           }
         ],
@@ -186,14 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d43192d997da978e",
+  "active": "95e98f772b853ce4",
   "lastOpenFiles": [
+    "Study/Competitive Programming/Range Queries/Range Queries.md",
+    "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
     "Study/Competitive Programming/Range Queries",
     "Study/Competitive Programming/Bit Manipulation/Bit Formulas.md",
     "Study/Competitive Programming/Bit Manipulation/Bit Representation.md",
     "Study/Competitive Programming/Bit Manipulation/InBuilt Bit Functions.md",
     "Study/Competitive Programming/Bit Manipulation/Bit Operations.md",
-    "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
     "Study/Pytorch/Autograd.md",
     "Study/Competitive Programming/Bit Manipulation",
     "Study/Transformers/Attention Is All You Need.md",
