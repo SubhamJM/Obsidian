@@ -6,5 +6,7 @@ x | (1 << k) // makes the kth bit = 1 in x
 x & ~(1 << k) // makes the kth bit = 0 in x
 x ^ (1 << k) // inverts the kth bit in x
 
-x &(x)
+x & (x-1) //sets the last 1 bit to 0 in x
+x | (x-1) // inverts all the bits after the last 1 in x
+x & -x // sets all bits to 0 except the first one from the rig
 ```
