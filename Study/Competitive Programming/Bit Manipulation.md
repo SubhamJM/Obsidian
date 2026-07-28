@@ -9,4 +9,10 @@
 - Remaining Accounts for the numbers from -2<sup>31</sup> to 2<sup>31</sup>-1 numbers
 
  **Some Properties**:
- 1. ~x 
+ 1. ~x + 1 = -x
+	- eg. 29's negation is -30
+2. x + (-x) = 0 (due to bits overflowing)
+
+```cpp
+
+```
