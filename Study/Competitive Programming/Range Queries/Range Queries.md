@@ -22,4 +22,4 @@ max(3,6) = 6
 ## Two methods of doing range queries:
 
 1. [[Static Array Queries]]
-2. [[]]
+2. [[Binary Indexed Tree]]
