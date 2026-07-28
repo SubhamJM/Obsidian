@@ -47,11 +47,12 @@ for epoch in range(epochs):
 	
 	# parameters update
 	with torch.no_grad():
-	model.weights -= learning_rate * model.weights.grad
-	model.bias -= learning_rate * model.bias.grad
+		model.weights -= learning_rate * model.weights.grad
+		model.bias -= learning_rate * model.bias.grad
 	
 	#zero gradients
 	model.weights.grad.zero_()
 	model.bias.grad.zero_()
 ```
 
+> with torch.no_grad() part is very important as updating the values without it will cause the calculation to come under the computation graph
