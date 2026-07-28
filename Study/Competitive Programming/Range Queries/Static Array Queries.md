@@ -1,10 +1,20 @@
 > Only used when array is static (That means no update to the array is made in any point of time or in between queries)
 
+
+## Sum Queries:
+
 -  We can make a prefix sum array:
-- Example:
+	Example:
 
 ```cpp
 {1, 3, 4, 8, 6, 1, 4, 2}
 
-// will be conv
+// will be converted into prefix sum array:
+{1, 4, 8, 16, 22, 23, 27, 29}
+```
+
+- Now if i want to calculate sum(a, b) we do:
+
+```cpp
+
 ```
