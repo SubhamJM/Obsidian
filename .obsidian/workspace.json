@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/bruh.md",
+                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bruh"
+              "title": "BasicNeuralNetwork (without Pytorch)"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/bruh.md",
+                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bruh"
+              "title": "Outline of BasicNeuralNetwork (without Pytorch)"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "769e1879b383d279",
   "lastOpenFiles": [
-    "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
     "Obsidian/bruh.md",
+    "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
     "Obsidian/Untitled",
     "Obsidian",
     "Study/Pytorch/Autograd.md"
