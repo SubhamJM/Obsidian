@@ -11,9 +11,14 @@
  **Some Properties**:
  1. ~x + 1 = -x
 	- eg. 29's negation is -30
-2. x + (-x) = 0 (due to bits overflowing)
 
 ```cpp
 ~x = -x - 1
 ```
 
+2. x + (-x) = 0 (due to bits overflowing)
+3. For going from signed to unsigned: -x = 2<sup>n</sup> - x
+
+```cpp
+-x = power(2, n) - x
+```

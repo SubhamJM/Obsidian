@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Machine Learning/Cross-Validation.md",
+                "file": "Study/Competitive Programming/Bit Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross-Validation"
+              "title": "Bit Manipulation"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Study/Machine Learning/Cross-Validation.md",
+            "file": "Study/Competitive Programming/Bit Manipulation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Study/Machine Learning/Cross-Validation.md",
+            "file": "Study/Competitive Programming/Bit Manipulation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Study/Machine Learning/Cross-Validation.md",
+            "file": "Study/Competitive Programming/Bit Manipulation.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,6 +171,10 @@
   },
   "active": "9940fac5f4b88387",
   "lastOpenFiles": [
+    "Study/Machine Learning/Cross-Validation.md",
+    "/Study/Competitive Programming/Bit Manipulation.md",
+    "/Study/Competitive Programming",
+    "/Study",
     "Study/Machine Learning/Bias-Variance Tradeoff.md",
     "Study/Transformers/Attention Is All You Need.md",
     "Study/Pytorch/Tensors.md",
@@ -179,7 +183,6 @@
     "Study/Machine Learning/Underfitting.md",
     "Study/Machine Learning/Regularization.md",
     "Study/Machine Learning/Overfitting.md",
-    "Study/Machine Learning/Cross-Validation.md",
     "Study/Competitive Programming/Bit Manipulation.md",
     "Attachments/underfitting_vs_overfitting.png",
     "Attachments/Transformer_Architecture.png",
@@ -194,7 +197,6 @@
     "Study",
     "Resources",
     "Projects",
-    "Attachments",
-    "Archive"
+    "Attachments"
   ]
 }
