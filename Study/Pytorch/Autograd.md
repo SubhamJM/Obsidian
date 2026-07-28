@@ -34,6 +34,7 @@ w.grad # dL/dw
 b.grad # dL/db
 ```
 
+
 ---
 
 **NOTE**:

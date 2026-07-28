@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
+                "file": "Study/Pytorch/Autograd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BasicNeuralNetwork (without Pytorch)"
+              "title": "Autograd"
             }
           }
         ]
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
+                "file": "Study/Pytorch/Autograd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BasicNeuralNetwork (without Pytorch)"
+              "title": "Outline of Autograd"
             }
           }
         ],
@@ -206,6 +206,8 @@
   },
   "active": "95e98f772b853ce4",
   "lastOpenFiles": [
+    "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
+    "Study/Pytorch/NN module.md",
     "Study/Pytorch/Autograd.md",
     "Study/Competitive Programming/Range Queries/Binary Indexed Tree.md",
     "Study/Competitive Programming/Range Queries/Range Queries.md",
@@ -218,7 +220,6 @@
     "Study/Machine Learning/Cross-Validation.md",
     "Study/Machine Learning/Regularization.md",
     "Study/Machine Learning/Overfitting.md",
-    "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
     "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
     "Study/Competitive Programming/Range Queries",
     "Study/Competitive Programming/Bit Manipulation/Bit Formulas.md",

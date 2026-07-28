@@ -51,6 +51,8 @@ for epoch in range(epochs):
 	model.bias.grad.zero_()
 ```
 
+- Using [[Autograd]] to make the backward propagation and then updating the weights
+
 > with **torch.no_grad()** part is very important as updating the values _without it will cause the calculation_ to come under the computation graph
 
 
