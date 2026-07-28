@@ -29,3 +29,14 @@ This uses the formula from [[Bit Formulas]]
 > **Note:**
 > using \_\_builtin_popcount(x) gives the number of elements in the set x
 
+## Important:
+
+- This loop goes through all the subsets of length k
+```cpp
+for (int i = 0; i < (1<<k); i++){
+	// code block
+}
+```
+
+
+
