@@ -53,7 +53,8 @@ x << k // shifts the bits of x k bits to the left
 ```
 
 > **Note**
-> . >> k acts as dividing the number by 2^k rounding down to int  
-> . << k acts as multiplying number by 2^k 
-
-- (1 << k) is a bitstring with only 1 at the kth bit from right, also it is 
+> x >> k acts as dividing the number by 2^k rounding down to int  
+> 
+> x << k acts as multiplying number by 2^k 
+> 
+>  (1 << k) is a bitstring with only 1 at the kth bit from right, also it is 2^k
