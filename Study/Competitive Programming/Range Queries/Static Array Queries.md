@@ -37,3 +37,8 @@ sum(a, b) = sum(0, b) - sum(0, a-1);
 
 - This whole process takes O(nlogn) time and then the array is ready for queries
 
+#### Method of finding the min or max:
+
+- let k = highest power of two that does not exceed (b-a+1)
+
+![[Pasted image 20260728232650.png]]
