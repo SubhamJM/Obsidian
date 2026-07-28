@@ -2,5 +2,9 @@
 
 ```cpp
 x & (1 << k) // returns the kth bit from right of x
-x | (1 <<)
+x | (1 << k) // makes the kth bit = 1 in x
+x & ~(1 << k) // makes the kth bit = 0 in x
+x ^ (1 << k) // inverts the kth bit in x
+
+x &(x)
 ```
