@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/SubhamJM/Obsidian.git",
+  "remoteURL": "git@github.com:SubhamJM/Obsidian.git",
   "gitLocation": "",
   "syncinterval": 1,
   "isSyncOnLoad": true,

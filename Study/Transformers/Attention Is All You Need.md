@@ -13,6 +13,4 @@
 - Encoder is the left part
 - Decoder is the right part
 
-
-
 bruh
