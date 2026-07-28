@@ -7,4 +7,13 @@
 
 ### Example:
 
-let array = 
+```cpp
+vector<int> array = {1,3,8,4,6,1,3,4};
+
+sum(3,6) = 14
+min(3,6) = 1
+max(3,6) = 6
+```
+
+
+- We can do it in O(n) using simple loops but that will b
