@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation/Bit Manipulation.md",
+                "file": "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit Manipulation"
+              "title": "Bits as Set"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation/Bit Manipulation.md",
+                "file": "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bit Manipulation"
+              "title": "Outline of Bits as Set"
             }
           }
         ],
@@ -188,9 +188,10 @@
   },
   "active": "d43192d997da978e",
   "lastOpenFiles": [
-    "Study/Competitive Programming/Bit Manipulation/InBuilt Bit Functions.md",
+    "Study/Competitive Programming/Range Queries",
     "Study/Competitive Programming/Bit Manipulation/Bit Formulas.md",
-    "Study/Competitive Programming/Bit Manipulation/Bit Manipulation.md",
+    "Study/Competitive Programming/Bit Manipulation/Bit Representation.md",
+    "Study/Competitive Programming/Bit Manipulation/InBuilt Bit Functions.md",
     "Study/Competitive Programming/Bit Manipulation/Bit Operations.md",
     "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
     "Study/Pytorch/Autograd.md",
