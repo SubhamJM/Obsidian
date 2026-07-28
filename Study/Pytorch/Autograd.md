@@ -5,7 +5,7 @@
 ### Syntax:
 
 ```python
-x = torch.tensor(3.0, requires_grad=True)
+x = torch.tensor(3.0, requires_grad=True) # creates a tensor with autograd
 y = x**2
 z = torch.sin(y)
 # this whole chain creates a computation graph 
@@ -34,6 +34,7 @@ w.grad # dL/dw
 b.grad # dL/db
 ```
 
+- A simple implementation is given in the [[BasicNeuralNetwork (without Pytorch)]] note.
 
 ---
 
