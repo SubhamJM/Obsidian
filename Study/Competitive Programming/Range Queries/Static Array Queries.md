@@ -32,4 +32,8 @@ sum(a, b) = sum(0, b) - sum(0, a-1);
 - best with static array is O(nlogn) time for processing and then O(1) for query.
 - Idea is to ==precalculate== all min and max for all the ranges
 
+![[Pasted image 20260728232504.png]]
+![[Pasted image 20260728232523.png]]
+
+- This whole process takes O(nlogn) time and then the array is ready for queries
 
