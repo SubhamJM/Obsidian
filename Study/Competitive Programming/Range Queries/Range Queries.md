@@ -19,3 +19,7 @@ max(3,6) = 6
 - We can do it in O(n) using simple loops.
 - But we can optimize the algorithm for consequtive queries like 3 to 6
 
+## Two methods of doing range queries:
+
+1. [[Static Array Queries]]
+2. [[]]
