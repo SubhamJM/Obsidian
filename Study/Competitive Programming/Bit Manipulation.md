@@ -14,5 +14,6 @@
 2. x + (-x) = 0 (due to bits overflowing)
 
 ```cpp
-
+~x = -x - 1
 ```
+
