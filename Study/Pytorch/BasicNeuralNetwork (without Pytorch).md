@@ -61,5 +61,7 @@ with torch.no_grad():
 	y_pred = model.forward(xtest_tensor)
 	y_pred = (y_pred > 0.5).float()
 
-accuracy 
+accuracy = (y_pred == ytest_tensor).float().mean()
 ```
+
+This calculates the accuracy of the model.
