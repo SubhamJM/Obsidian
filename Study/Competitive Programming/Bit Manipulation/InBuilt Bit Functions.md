@@ -1,1 +1,2 @@
-1. __buitin_clz(x):
+1. **\_\_buitin_clz(x):** The number of leading zeros
+2. **\**
