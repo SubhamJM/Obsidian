@@ -22,4 +22,27 @@ a|b
 22 | 26 // returns 30
 ```
 
-### 3. 
+### 3. Xor Operator:
+
+^ - bitwise XOR operator
+
+```cpp
+a ^ b
+
+22 ^ 26 // returns 12
+```
+
+### 4. Not Operator:
+
+~ bitwise not operator:
+
+```cpp
+~a
+
+x = 29
+~x // returns -30
+```
+
+### 5. Bitshifts
+
+. >> and << are right and left bitshifts respe
