@@ -1,0 +1,1 @@
+> Only used when array is static (That means no update to the array is made in any poin)
