@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Competitive Programming/Range Queries/Binary Indexed Tree.md",
+                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Indexed Tree"
+              "title": "BasicNeuralNetwork (without Pytorch)"
             }
           }
         ]
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Competitive Programming/Range Queries/Binary Indexed Tree.md",
+                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary Indexed Tree"
+              "title": "Outline of BasicNeuralNetwork (without Pytorch)"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "95e98f772b853ce4",
   "lastOpenFiles": [
-    "Study/Competitive Programming/Range Queries/Range Queries.md",
+    "Study/Pytorch/Autograd.md",
     "Study/Competitive Programming/Range Queries/Binary Indexed Tree.md",
+    "Study/Competitive Programming/Range Queries/Range Queries.md",
     "Study/Competitive Programming/Range Queries/Static Array Queries.md",
     "Attachments/Pasted image 20260728232650.png",
     "Attachments/Pasted image 20260728232523.png",
@@ -218,7 +219,6 @@
     "Study/Machine Learning/Regularization.md",
     "Study/Machine Learning/Overfitting.md",
     "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
-    "Study/Pytorch/Autograd.md",
     "Study/Competitive Programming/Bit Manipulation/Bits as Set.md",
     "Study/Competitive Programming/Range Queries",
     "Study/Competitive Programming/Bit Manipulation/Bit Formulas.md",
