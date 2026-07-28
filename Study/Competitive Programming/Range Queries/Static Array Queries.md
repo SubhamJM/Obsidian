@@ -2,6 +2,8 @@
 
 ## Sum Queries:
 
+- O(n) for preprocessing
+- O(1) for query function
 -  We can make a prefix sum array:
 	Example:
 
@@ -24,7 +26,8 @@ sum(a, b) = sum(0, b) - sum(0, a-1);
 ![[MultiDimension_sumquery.png]]
 
 
-## Minimum Queries:
+## Minimum & Maximum Queries:
 
-- Minimum queries are difficult than sum queries.
-- best with static array is O(nlogn) time for processin
+- Minimum & maximum queries are difficult than sum queries.
+- best with static array is O(nlogn) time for processing and then O(1) for query.
+- 
