@@ -42,3 +42,7 @@ sum(a, b) = sum(0, b) - sum(0, a-1);
 - let k = highest power of two that does not exceed (b-a+1)
 
 ![[Pasted image 20260728232650.png]]
+
+
+> Similarly we can do for the MAXIMUM by replacing min with max everywhere.
+
