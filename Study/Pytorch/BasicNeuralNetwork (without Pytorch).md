@@ -52,3 +52,14 @@ for epoch in range(epochs):
 ```
 
 > with **torch.no_grad()** part is very important as updating the values _without it will cause the calculation_ to come under the computation graph
+
+
+## Model Evaluation:
+
+```python
+with torch.no_grad():
+	y_pred = model.forward(xtest_tensor)
+	y_pred = (y_pred > 0.5).float()
+
+accuracy 
+```
