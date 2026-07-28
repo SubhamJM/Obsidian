@@ -17,3 +17,5 @@ for (int i = 31; i >= 0; i--) {
 ```
 
 This uses the formula from [[Bit Formulas]]
+
+### Set Operations:
