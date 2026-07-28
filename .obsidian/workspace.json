@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation/InBuilt Bit Functions.md",
+                "file": "Study/Competitive Programming/Bit Manipulation/Bit Formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InBuilt Bit Functions"
+              "title": "Bit Formulas"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation/InBuilt Bit Functions.md",
+                "file": "Study/Competitive Programming/Bit Manipulation/Bit Formulas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of InBuilt Bit Functions"
+              "title": "Outline of Bit Formulas"
             }
           }
         ],
