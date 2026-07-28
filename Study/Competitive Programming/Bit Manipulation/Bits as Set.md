@@ -32,11 +32,9 @@ This uses the formula from [[Bit Formulas]]
 ## Important:
 
 - This loop goes through all the subsets of length k
+
 ```cpp
 for (int i = 0; i < (1<<k); i++){
 	// code block
 }
 ```
-
-
-
