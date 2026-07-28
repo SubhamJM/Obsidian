@@ -30,4 +30,6 @@ sum(a, b) = sum(0, b) - sum(0, a-1);
 
 - Minimum & maximum queries are difficult than sum queries.
 - best with static array is O(nlogn) time for processing and then O(1) for query.
-- 
+- Idea is to ==precalculate== all min and max for all the ranges
+
+
