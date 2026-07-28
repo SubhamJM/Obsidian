@@ -45,4 +45,12 @@ x = 29
 
 ### 5. Bitshifts
 
-. >> and << are right and left bitshifts respe
+. >> and << are right and left bitshifts respectively
+
+```cpp
+x >> k // shifts the bits of x k bits to the right
+x << k // shifts the bits of x k bits to the left
+```
+
+> **Note**
+> >> k acts as dividing the number by 2^k 
