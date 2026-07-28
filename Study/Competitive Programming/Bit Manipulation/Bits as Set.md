@@ -25,5 +25,7 @@ This uses the formula from [[Bit Formulas]]
 - Complement:        ~a
 - difference:      a&(~b)
 
+[[InBuilt Bit Functions]] (Reference)
 > **Note:**
-> 
+> using \_\_builtin_popcount(x) gives the number of elements in the set x
+
