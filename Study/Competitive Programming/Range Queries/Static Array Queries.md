@@ -19,3 +19,7 @@
 sum(a, b) = sum(0, b) - sum(0, a-1);
 ```
 
+> **NOTE**
+> we can extend this idea to multi dimensions, with this example:
+
+![[Pasted image 20260728232016.png]]
