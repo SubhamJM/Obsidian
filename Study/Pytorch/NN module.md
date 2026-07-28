@@ -1,1 +1,1 @@
-> *torch.nn* module in
+> *torch.nn* module in pytorch
