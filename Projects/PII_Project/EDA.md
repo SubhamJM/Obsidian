@@ -13,4 +13,6 @@
 
 ![[Pasted image 20260729232436.png]]
 
+*Most of the documents are in the range of 500 - 1000 range*
+- Using a max_length of 512 for tokenization will be good for efficiency and performance purposes
 
