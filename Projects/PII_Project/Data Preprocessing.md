@@ -12,4 +12,3 @@ _BIO Format:_
 ### Key takeaways:
 
 - The tokenization into words is already given along with individual word's label
-- 
