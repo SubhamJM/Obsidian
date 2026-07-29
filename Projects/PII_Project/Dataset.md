@@ -13,4 +13,4 @@ _BIO Format:_
 
 - The tokenization into words is already given along with individual word's label
 - labels correspond to each token
-- using a transformer model for this will likely need another layer of tokenisation so might have to extend the labels for the new tokens. [[Prototyping]]
+- using a transformer model for this will likely need another layer of tokenisation so might have to extend the labels for the new tokens. [[Models to consider]]
