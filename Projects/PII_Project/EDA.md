@@ -1,6 +1,7 @@
 
 ![[Pasted image 20260729232116.png]]
 
+---
 
 >  -> Number of normal words way too much exceeds the special entity words.
 > -> Normal models like CRF and BiLSTM will struggle to capture the pattern
@@ -10,7 +11,10 @@
 
 - _Some entities only have single or two digit occurances which will be extremely hard to capture the pattern for them._
 
-![[Pasted image 20260729232508.png]]
+![[Pasted image 20260729232508.png|686]]
+
+---
+
 
 ![[Pasted image 20260729232436.png]]
 
