@@ -12,4 +12,9 @@
 4. during tokenization, special characters get added which we want to avoid like [PAD], [UNK], etc. so we assign label to them as -100.
 ### Results and Conclusion
 
-1. The prototype was unsuccessful, because somehow i messed up the tokenization par
+1. The prototype was unsuccessful, because somehow i messed up the tokenization part where we have to extend the labels. all the labels were either 5 or -100.
+2. Learnt the process of the whole NLP thing from data preparing to model training.
+
+---
+
+# 2. Prototyp
