@@ -5,4 +5,10 @@
 
 _BIO Format:_ 
 - B- means starting of an entity
-- I- 
+- I- means ongoing entity text
+- O- menas outside, not an entity
+
+
+### Key takeaways:
+
+- The token
