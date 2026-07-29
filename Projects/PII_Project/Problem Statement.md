@@ -13,4 +13,4 @@
    An NER Project.
 > Censor Sensitive information.
 > Use of NLP
-> 
+> Recommended algorithms suggest more of Transformers use
