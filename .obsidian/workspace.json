@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Pytorch/NN module.md",
+                "file": "Projects/PII_Project/Problem Statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NN module"
+              "title": "Problem Statement"
             }
           }
         ]
@@ -206,8 +206,10 @@
   },
   "active": "95e98f772b853ce4",
   "lastOpenFiles": [
-    "Study/Pytorch/Autograd.md",
     "Study/Pytorch/NN module.md",
+    "Projects/PII_Project/Problem Statement.md",
+    "Projects/PII_Project",
+    "Study/Pytorch/Autograd.md",
     "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
     "Study/Competitive Programming/Range Queries/Binary Indexed Tree.md",
     "Study/Competitive Programming/Range Queries/Range Queries.md",
