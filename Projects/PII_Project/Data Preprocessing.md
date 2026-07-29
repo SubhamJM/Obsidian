@@ -11,4 +11,5 @@ _BIO Format:_
 
 ### Key takeaways:
 
-- The token
+- The tokenization into words is already given along with individual word's label
+- 
