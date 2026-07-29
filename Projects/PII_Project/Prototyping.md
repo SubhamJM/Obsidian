@@ -14,7 +14,8 @@
 
 1. The prototype was unsuccessful, because somehow i messed up the tokenization part where we have to extend the labels. all the labels were either 5 or -100.
 2. Learnt the process of the whole NLP thing from data preparing to model training.
+3. Did some amount of [[EDA]]
 
 ---
 
-# 2. Prototyp
+# 2. Prototype2:
