@@ -6,3 +6,8 @@
 > -> Transformers is needed to capture the big picture here.
 
 ![[Pasted image 20260729232158.png]]
+
+- _Some entities only have single or two digit occurances which will be extremely hard to capture the pattern for them._
+
+
+
