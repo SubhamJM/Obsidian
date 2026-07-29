@@ -12,3 +12,5 @@ _BIO Format:_
 ### Key takeaways:
 
 - The tokenization into words is already given along with individual word's label
+- labels correspond to each token
+- using a transformer model for this will likely need another layer of tokenisation so might have to extend the labels 
