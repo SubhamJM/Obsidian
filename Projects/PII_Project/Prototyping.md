@@ -10,4 +10,6 @@
 2. splitting the words into sub tokens will create more input than there are labels, so we need to extend the labels list.
 3. using -100 label in pytorch makes it so that during training that input and label gets ignored.
 4. during tokenization, special characters get added which we want to avoid like [PAD], [UNK], etc. so we assign label to them as -100.
-### Results a
+### Results and Conclusion
+
+1. The prototype was unsuce
