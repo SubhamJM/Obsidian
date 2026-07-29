@@ -9,6 +9,8 @@
 *Recommended Algorithms:* Conditional Random Fields (CRF), BiLSTM-CRF, or fine-tuning transformer models (like DistilBERT).
 
 
->
+> **Notes**:
    An NER Project.
-> Censor Sensitive information
+> Censor Sensitive information.
+> Use of NLP
+> 
