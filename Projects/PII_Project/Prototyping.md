@@ -12,4 +12,4 @@
 4. during tokenization, special characters get added which we want to avoid like [PAD], [UNK], etc. so we assign label to them as -100.
 ### Results and Conclusion
 
-1. The prototype was unsuce
+1. The prototype was unsuccessful, because somehow i messed up the tokenization par
