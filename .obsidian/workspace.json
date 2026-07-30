@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Pytorch/NN module.md",
+                "file": "Study/Pytorch/Simple torch.nn Use.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NN module"
+              "title": "Simple torch.nn Use"
             }
           }
         ]
@@ -204,9 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "769e1879b383d279",
+  "active": "8d7decf0829bfb77",
   "lastOpenFiles": [
     "Study/Pytorch/NN module.md",
+    "Study/Pytorch/Simple torch.nn Use.md",
     "Study/Pytorch/Autograd.md",
     "Projects/PII_Project/Results.md",
     "Projects/PII_Project/EDA.md",
