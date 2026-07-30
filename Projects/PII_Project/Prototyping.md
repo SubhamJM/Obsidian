@@ -1,3 +1,4 @@
+*Using models from [[Models to consider]]*
 # 1. Trial (Using DistilBERT):
 
 - Used LLMs to know more about the process of PII detecion.
@@ -42,6 +43,9 @@
 # 5. Prototype5 (DistilBERT again):
 
 1. Finally i figured out how to label the data correctly and trained the model which finally gave me a good f5 score.
+
+- All final results are in [[Results]]
+
 ![[1785402263053242641.png]]
 ![[1785402274615522771.png]]
 
