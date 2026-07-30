@@ -22,5 +22,6 @@ class Model(nn.Module):
 tensor = torch.rand(10, 5) #10 input 5 features
 model = Model(tensor.shape[1])
 
-model(tensor)
+model(tensor) # gives output of forward function
 ```
+
