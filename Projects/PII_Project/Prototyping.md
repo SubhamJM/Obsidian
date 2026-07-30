@@ -33,4 +33,9 @@
 1. the training process was too long for my google collab and local machine so i dropped it but it did seem promising.
 2. its training process is a little difference from a transformer training on new data.
 
-# 5. Prot
+# 5. Prototype5 (DistilBERT again):
+
+1. Finally i figured out how to label the data correctly and trained the model which finally gave me a good f5 score.
+![[1785402263053242641.png]]
+
+![[1785402274615522771.png]]
