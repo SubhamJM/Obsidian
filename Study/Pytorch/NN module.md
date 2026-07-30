@@ -22,5 +22,9 @@
 
 - nn.Sequential
 
+### Regularisation and Dropout:
 
+- nn.Dropout
+- nn.BatchNorm2d
 
+> Basically all the basic functionality is given so we dont have to write everything from hand as in [[BasicNeuralNetwork (without Pytorch)]]
