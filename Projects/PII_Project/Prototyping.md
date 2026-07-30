@@ -24,18 +24,25 @@
 1. 2nd prototype was short, it failed early because i realised that normal CRF model is not good enough to capture the context of the whole sentence.
 2. I left the prototyping mid way because i didnt have hope for it.
 
+---
+
 # 3. Prototype3 (CRF-BiLSTM)
 
 1. 3rd prototype was also CRF related but used biLSTM-CRF, but there is a reason why transformers took over instead of LSTMs, so the LSTM model failed too.
+
+---
 
 # 4. Prototype4 (Spacy)
 
 1. the training process was too long for my google collab and local machine so i dropped it but it did seem promising.
 2. its training process is a little difference from a transformer training on new data.
 
+---
+
 # 5. Prototype5 (DistilBERT again):
 
 1. Finally i figured out how to label the data correctly and trained the model which finally gave me a good f5 score.
 ![[1785402263053242641.png]]
-
 ![[1785402274615522771.png]]
+
+*Note: I did try deBERTa v3 but the model is so large it didnt fit in the google*
