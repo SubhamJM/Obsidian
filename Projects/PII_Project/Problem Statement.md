@@ -6,7 +6,7 @@
 
 **Key Features:** Raw text content, tokenized words, character offsets, and target entity labels (e.g., B-EMAIL, I-EMAIL, O).
 
-*Recommended Algorithms:* Conditional Random Fields (CRF), BiLSTM-CRF, or fine-tuning transformer models (like DistilBERT).
+*Recommended Algorithms:* Conditional Random Fields (CRF), BiLSTM-CRF, or fine-tuning transformer models (like DistilBERT). [[Models to consider]]
 
 
 > **Notes**:
