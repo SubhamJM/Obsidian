@@ -6,11 +6,15 @@
 
 ![[Pasted image 20260730142712.png|667]]
 
+---
+
 ## Context awareness:
 
 ![[Pasted image 20260730133329.png]]
 
 ![[1785398613847951914.png]]
+
+---
 
 # Final Product:
 
