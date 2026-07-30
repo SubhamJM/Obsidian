@@ -21,3 +21,5 @@
 # 2. Prototype2:
 
 
+1. 2nd prototype was short, it failed early because i realised that normal CRF model is not good enough to capture the context of the whole sentence.
+2. I 
