@@ -14,5 +14,13 @@ class Model(nn.Module):
 		out = self.linear1(features)
 		out = self.relu(out)
 		out = self.linear2(out)
-		out = se
+		out = self.sigmoid(out)
+		
+		return out
+		
+
+tensor = torch.rand(10, 5) #10 input 5 features
+model = Model(tensor.shape[1])
+
+model(tensor)
 ```
