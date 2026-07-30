@@ -10,6 +10,7 @@
 
 ## Context awareness:
 
+_In Prototyping phase_
 ![[Pasted image 20260730133329.png]]
 
 ![[1785398613847951914.png]]
