@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PII_Project/Results.md",
+                "file": "Projects/PII_Project/Prototyping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Results"
+              "title": "Prototyping"
             }
           }
         ]
@@ -206,11 +206,11 @@
   },
   "active": "95e98f772b853ce4",
   "lastOpenFiles": [
+    "Projects/PII_Project/Results.md",
     "Attachments/Pasted image 20260730132705.png",
     "Attachments/Pasted image 20260730132203.png",
     "Attachments/Pasted image 20260730132144.png",
     "Projects/PII_Project/EDA.md",
-    "Projects/PII_Project/Results.md",
     "Projects/PII_Project/Models to consider.md",
     "Projects/PII_Project/Prototyping.md",
     "Projects/PII_Project/Problem Statement.md",
@@ -230,7 +230,6 @@
     "Study/Competitive Programming/Range Queries/Range Queries.md",
     "Study/Competitive Programming/Range Queries/Static Array Queries.md",
     "Attachments/Pasted image 20260728232650.png",
-    "Attachments/Pasted image 20260728232523.png",
     "Study/Machine Learning/Cross-Validation.md",
     "Study/Machine Learning/Regularization.md",
     "Study/Machine Learning/Overfitting.md",
