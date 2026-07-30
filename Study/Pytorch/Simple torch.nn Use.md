@@ -6,5 +6,13 @@ class Model(nn.Module):
 	def __init__(self, num_features):
 		super().__init__()
 		self.linear1 = nn.Linear(num_features, 3)
-		self.ReLU
+		self.relu = nn.ReLU()
+		self.linear2 = nn.Linear(3, 1)
+		self.sigmoid = nn.Sigmoid()
+		
+	def forward(self, features):
+		out = self.linear1(features)
+		out = self.relu(out)
+		out = self.linear2(out)
+		out = se
 ```
