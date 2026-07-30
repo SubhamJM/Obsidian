@@ -11,5 +11,16 @@
 - nn.ReLU
 - nn.Sigmoid
 - nn.Tanh
-- 
+
+### Loss Functions:
+
+- nn.CrossEntropyLoss
+- nn.MELoss
+- nn.NLLLoss
+
+### Container Modules:
+
+- nn.Sequential
+
+
 
