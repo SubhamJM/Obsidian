@@ -26,4 +26,6 @@
 
 # 3. Prototype3
 
-1. 3rd prototype was also CRF related bu
+1. 3rd prototype was also CRF related but used biLSTM-CRF, but there is a reason why transformers took over instead of LSTMs, so the LSTM model failed too.
+
+# 4. Prototype4 (SPA)
