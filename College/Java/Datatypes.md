@@ -11,4 +11,13 @@ type variableName = value;
 
 // or just declaration:
 type variablename;
+
+int age = 15;
+String name = "John";
 ```
+
+### All type declaration:
+
+````
+```
+
