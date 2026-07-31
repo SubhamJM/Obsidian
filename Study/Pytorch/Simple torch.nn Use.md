@@ -25,3 +25,23 @@ model = Model(tensor.shape[1])
 model(tensor) # gives output of forward function
 ```
 
+## The sequential method:
+
+```python
+class Model(nn.Module):
+	def __init__(self, num_features):
+		super().__init__()
+		self.network = nn.Sequential(     # main thing
+			nn.Linear(num_features, 3),
+			nn.ReLU(),
+			nn.Linear(3, 1),
+			nn.Sigmoid()
+		)
+		
+	def forward(self, features):
+		out = self.network(features)
+		
+		return out
+		
+```
+
