@@ -4,5 +4,11 @@
 String[] array;
 int[] array;
 
-intp[] array = {1, 2, 3};
+int[] array = {1, 2, 3};
+
+int[] array = new int[4] // creates an array of size 4
 ```
+
+## Array methods:
+
+``
