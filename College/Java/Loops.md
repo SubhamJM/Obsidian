@@ -8,4 +8,17 @@ while (i < 5){
 }
 ```
 
-## 
+# For loop:
+
+```java
+
+```
+
+# Do while loop:
+
+```java
+do {
+	// code
+}
+while (condition)
+```
