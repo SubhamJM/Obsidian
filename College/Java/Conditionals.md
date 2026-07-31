@@ -43,4 +43,3 @@ switch(expression){
 }
 ```
 
-- Mostly used when looping through [[Arrays]] or [[String]]

@@ -14,6 +14,10 @@ while (i < 5){
 for (int i = 0; i < n; i++){
 	//code
 }
+
+for (int i : array){
+	//code
+}
 ```
 
 # Do while loop:
@@ -24,3 +28,6 @@ do {
 }
 while (condition)
 ```
+
+
+- Mostly used when looping through [[Arrays]] or [[String]]
