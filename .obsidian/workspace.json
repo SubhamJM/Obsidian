@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Java/Basic Programming/Operators.md",
+                "file": "College/Java/Methods/Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operators"
+              "title": "Methods"
             }
           }
         ],
@@ -235,8 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d43192d997da978e",
+  "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
+    "College/Java/Basic Programming/Operators.md",
+    "College/Java/Methods/Methods.md",
     "College/Java/Methods",
     "College/Java/Basic Programming/String.md",
     "College/Java/Basic Programming/Arrays.md",
@@ -245,7 +247,6 @@
     "College/Java/Basic Programming/Math.md",
     "College/Java/Basic Programming/Conditionals.md",
     "College/Java/Basic Programming/Datatypes.md",
-    "College/Java/Basic Programming/Operators.md",
     "Attachments/Pasted image 20260731190409.png",
     "Attachments/Pasted image 20260731190334.png",
     "Attachments/Pasted image 20260731190303.png",
