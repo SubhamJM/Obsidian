@@ -42,3 +42,5 @@ switch(expression){
 		//code block
 }
 ```
+
+- Mostly used when looping through [[Arra]]

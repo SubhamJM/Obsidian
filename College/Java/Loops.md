@@ -11,7 +11,9 @@ while (i < 5){
 # For loop:
 
 ```java
-
+for (int i = 0; i < n; i++){
+	//code
+}
 ```
 
 # Do while loop:
