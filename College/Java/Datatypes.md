@@ -27,4 +27,7 @@ String name = "Subham";
 ```
 
 
+### Mixing text and numbers:
+
+System.out.print("subham" + 17)    // results in "subham17"
 
