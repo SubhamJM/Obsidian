@@ -1,5 +1,5 @@
 - creating and calling methods with parameters:
-- 
+
 ```java
 public class Main {
   static void myMethod(String fname) {
@@ -17,3 +17,4 @@ public class Main {
 // Anja Refsnes
 ```
 
+> **return** statements are used when we want the function to return some value at the place where it was called, the return type of the function should be changes accordingly
