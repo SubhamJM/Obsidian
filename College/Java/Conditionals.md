@@ -28,3 +28,17 @@ if (condition) age = 18; // if one line code then no need of curly braces
 variable = (condition) ? expressionTrue : expressionFalse;
 ```
 
+# Switch case:
+
+```java
+switch(expression){
+	case x:
+		// code block
+		break;
+	case y:
+		// code block
+		break;
+	default:
+		//code block
+}
+```
