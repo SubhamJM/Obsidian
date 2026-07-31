@@ -5,6 +5,10 @@
 4. char
 5. boolean
 
+***var*** keyword assigns the datatype automatically to the variable name:
+eg.
+var name = "subham"; will asign it as String
+
 *Declaration format:* 
 ```java
 type variableName = value;
