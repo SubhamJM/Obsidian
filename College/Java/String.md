@@ -17,5 +17,12 @@ txt.toUpperCase();
 txt.toLowerCase();
 
 // find first occurance of a word or character
+txt.indexOf("UIO");
 
+// index a string to get character:
+txt.charAt(0);
+
+// compare equality of strings
+txt1, txt2
+txt1.equals(txt2);
 ```
