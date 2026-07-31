@@ -28,5 +28,10 @@ txt1.equals(txt2);  // returns true or false
 
 // remove white spacces at the end and start of the string
 txt.trim()
+
+// concatenate strings
+txt1.concat(txt2) // txt1 + txt2
+
+
 ```
 
