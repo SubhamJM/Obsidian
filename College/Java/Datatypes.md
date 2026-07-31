@@ -18,6 +18,6 @@ String name = "John";
 
 ### All type declaration:
 
-````
+```
 ```
 
