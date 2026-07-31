@@ -16,3 +16,10 @@
 
 ![[Pasted image 20260731190303.png]]
 
+
+## Logical Operators:
+
+![[Pasted image 20260731190334.png]]
+
+
+## Precedence:
