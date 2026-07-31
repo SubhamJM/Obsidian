@@ -5,3 +5,10 @@
 4. char
 5. boolean
 
+*Declaration format:* 
+```java
+type variableName = value;
+
+// or just declaration:
+type variablename;
+```
