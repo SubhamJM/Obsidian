@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Java/Arrays.md",
+                "file": "College/Java/Basic Programming/Arrays.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Java/String.md",
+                "file": "College/Java/Basic Programming/String.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Java/Operators.md",
+                "file": "College/Java/Basic Programming/Operators.md",
                 "mode": "source",
                 "source": false
               },
@@ -235,16 +235,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1c60375eed2b64",
+  "active": "d43192d997da978e",
   "lastOpenFiles": [
-    "College/Java/String.md",
-    "College/Java/Arrays.md",
+    "College/Java/Methods",
+    "College/Java/Basic Programming/String.md",
+    "College/Java/Basic Programming/Arrays.md",
     "College/Java/Basic Programming",
-    "College/Java/Loops.md",
-    "College/Java/Math.md",
-    "College/Java/Conditionals.md",
-    "College/Java/Datatypes.md",
-    "College/Java/Operators.md",
+    "College/Java/Basic Programming/Loops.md",
+    "College/Java/Basic Programming/Math.md",
+    "College/Java/Basic Programming/Conditionals.md",
+    "College/Java/Basic Programming/Datatypes.md",
+    "College/Java/Basic Programming/Operators.md",
     "Attachments/Pasted image 20260731190409.png",
     "Attachments/Pasted image 20260731190334.png",
     "Attachments/Pasted image 20260731190303.png",
