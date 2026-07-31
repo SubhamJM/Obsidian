@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
+                "file": "College/Java/OOP/What is OOP?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BasicNeuralNetwork (without Pytorch)"
+              "title": "What is OOP?"
             }
           }
         ],
@@ -235,8 +235,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "769e1879b383d279",
+  "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
+    "College/Java/OOP/What is OOP?.md",
     "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
     "Study/Pytorch/Simple torch.nn Use.md",
     "Study/Pytorch/NN module.md",
