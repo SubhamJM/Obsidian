@@ -10,6 +10,7 @@
 
 
 - x += 5 increases the value of x by 5
+- only works on numbers as mentioned in [[Datatypes]]
 
 
 ## Comparision operators:
@@ -23,3 +24,5 @@
 
 
 ## Precedence:
+
+![[Pasted image 20260731190409.png]]
