@@ -18,6 +18,13 @@ String name = "John";
 
 ### All type declaration:
 
+```java
+int age = 15;
+float floatnum = 5.99f;
+char letter = 'D';
+boolean bool = true;
+String name = "Subham";
 ```
-```
+
+
 
