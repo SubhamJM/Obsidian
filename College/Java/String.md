@@ -33,7 +33,5 @@ txt.trim()
 txt1.concat(txt2) // txt1 + txt2
 
 txt1.contains(txt2) // checks if txt2 is in txt1
-
-// change character is spe
 ```
 
