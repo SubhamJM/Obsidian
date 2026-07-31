@@ -25,5 +25,6 @@ if (condition) age = 18; // if one line code then no need of curly braces
 *Shorthand Notation*:
 
 ```java
-variable = (condition) ? expressionTrue : Expres
+variable = (condition) ? expressionTrue : expressionFalse;
 ```
+
