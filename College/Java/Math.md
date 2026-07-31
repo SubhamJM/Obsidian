@@ -9,7 +9,5 @@ Math.ceil(x);
 Math.round(x);
 Math.floor(x);
 
-Math.random() // gives from 0.0 (incl) to 1.0 (exclude);
-
-
+Math.random() // gives from 0.0 (include) to 1.0 (exclude);
 ```

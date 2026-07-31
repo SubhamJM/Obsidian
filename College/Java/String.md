@@ -32,6 +32,6 @@ txt.trim()
 // concatenate strings
 txt1.concat(txt2) // txt1 + txt2
 
-
+txt1.contains(txt2) // checks in 
 ```
 
