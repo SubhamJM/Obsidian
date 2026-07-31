@@ -43,4 +43,4 @@ switch(expression){
 }
 ```
 
-- Mostly used when looping through [[Arra]]
+- Mostly used when looping through [[Arrays]] or [[String]]
