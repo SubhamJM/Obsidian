@@ -6,6 +6,9 @@
 > the -- and ++ are used as follow:
 > --x
 > ++x
+> OR
+> x--
+> x++
 > to increament or decreament by 1
 
 
