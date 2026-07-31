@@ -1,3 +1,5 @@
+## Math operators
+
 ![[Pasted image 20260731190052.png]]
 
 >**Note**: 
@@ -8,4 +10,9 @@
 
 
 - x += 5 increases the value of x by 5
+
+
+## Comparision operators:
+
+![[Pasted image 20260731190303.png]]
 
