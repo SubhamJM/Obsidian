@@ -24,5 +24,9 @@ txt.charAt(0);
 
 // compare equality of strings
 txt1, txt2
-txt1.equals(txt2);
+txt1.equals(txt2);  // returns true or false
+
+// remove white spacces at the end and start of the string
+txt.trim()
 ```
+
