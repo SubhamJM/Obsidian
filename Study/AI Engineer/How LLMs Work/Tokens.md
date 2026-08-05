@@ -1,1 +1,2 @@
-- Tokens are basically a simple
+- Tokens are basically a simple word to integer mapping,
+- Every word has its own token number which is then converted into a huge vector to embed in the embedding dimension
