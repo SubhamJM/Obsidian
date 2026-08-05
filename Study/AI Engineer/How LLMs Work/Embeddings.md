@@ -1,0 +1,1 @@
+- A space where the words are expressed as a collections of 
