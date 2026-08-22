@@ -27,3 +27,8 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 	- This usually comes out to be average of the values in that leaf, for the loss function as defined above.
 
 	- Now update the F(x) as last F(x) + learning_rate * new decision tree.
+
+
+# The whole workflow to fit the Gradient boosting Algorithm:
+
+![[Pasted image 20260823001410.png]]
