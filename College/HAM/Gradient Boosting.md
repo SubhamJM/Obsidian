@@ -14,6 +14,7 @@
   ```
 
 > Learning rate is between (0, 1)
+> *This is used to achieve lower variance.*
 
 ### Example:
 
