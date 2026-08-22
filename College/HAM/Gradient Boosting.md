@@ -25,3 +25,5 @@
 
 - Now it again calculates *residuals* using the new prediction model, and does all the above stuff again to get another tree
 - All this means that future trees are *learning* from the mistakes of the past trees
+  
+  ![[Pasted image 20260822234440.png]]
