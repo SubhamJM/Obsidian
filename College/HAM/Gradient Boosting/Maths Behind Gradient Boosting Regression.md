@@ -19,4 +19,4 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 	- compute residuals:
 		![[Pasted image 20260823000606.png]]
 
-
+	- Fit a regression decision tree to input as the features and output as the residuals.
