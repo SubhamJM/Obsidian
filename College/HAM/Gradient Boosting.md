@@ -19,3 +19,8 @@
 ### Example:
 
 ![[Pasted image 20260822234111.png]]
+
+
+## Future steps:
+
+- Now it again calculates residuals using the new prediction model, and does all the above stuff again to get another tree
