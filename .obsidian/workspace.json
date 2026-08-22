@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/HAM/Gradient Boosting.md",
+                "file": "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Boosting"
+              "title": "Gradient Boosting (Regression)"
             }
           }
         ]
@@ -206,14 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1c60375eed2b64",
+  "active": "d43192d997da978e",
   "lastOpenFiles": [
+    "College/HAM/Gradient Boosting",
     "Attachments/Pasted image 20260822234658.png",
     "Attachments/Pasted image 20260822234612.png",
     "Attachments/Pasted image 20260822234440.png",
     "Attachments/Pasted image 20260822234111.png",
     "Study/AI Engineer/How LLMs Work/LLMs.md",
-    "College/HAM/Gradient Boosting.md",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
     "College/HAM/Gradient Boosting/Introduction.md",
     "College/HAM/Gradient Boosting",
     "College/HAM",
@@ -252,7 +253,6 @@
     "Study/Pytorch/Autograd.md",
     "Projects/PII_Project/Results.md",
     "Projects/PII_Project/EDA.md",
-    "Attachments/1785402274615522771.png",
-    "Attachments/1785402263053242641.png"
+    "Attachments/1785402274615522771.png"
   ]
 }
