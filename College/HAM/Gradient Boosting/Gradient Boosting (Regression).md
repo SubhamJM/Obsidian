@@ -33,3 +33,6 @@
 - This way we keep adding more trees to reduce the residual (loss) and get closer values to the actual label.
 
 ![[Pasted image 20260822234658.png]]
+
+> Full mathematical model is in [[Maths Behind Gradient Boosting Regression]]
+

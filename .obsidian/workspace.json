@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
+                "file": "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths Behind Gradient Boosting Regression"
+              "title": "Gradient Boosting (Classification)"
             }
           }
         ]
@@ -208,11 +208,12 @@
   },
   "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
+    "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
+    "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
     "Attachments/Pasted image 20260823001410.png",
     "Attachments/Pasted image 20260823001022.png",
     "Attachments/Pasted image 20260823000606.png",
-    "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
-    "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
     "College/HAM/Gradient Boosting",
     "Attachments/Pasted image 20260822234658.png",
     "Attachments/Pasted image 20260822234612.png",
@@ -251,7 +252,6 @@
     "College/Java/Basic Programming/Math.md",
     "Attachments/Pasted image 20260731190409.png",
     "Attachments/Pasted image 20260731190334.png",
-    "Attachments/Pasted image 20260731190303.png",
     "Study/Pytorch/Autograd.md",
     "Projects/PII_Project/Results.md"
   ]
