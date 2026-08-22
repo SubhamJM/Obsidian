@@ -9,8 +9,13 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 2. Loss function:
 	- L(yi, F(xi)) = 1/2(observed - predicted)^2
 
-### Now:
+### Now Steps:
 
-- Initial Prediction: F(x) = average of all labels
-- this is because taking loss over all data points and minimizing the loss 
+1.  Initialization:
+	- Initial Prediction: F(x) = average of all labels
+	- this is because taking loss over all data points and minimizing the loss gets us F(x) as average of all labels
+
+2. make a loop for m = 1 to M:
+	- 
+
 
