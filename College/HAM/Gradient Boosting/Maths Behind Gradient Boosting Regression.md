@@ -11,4 +11,6 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 
 ### Now:
 
-Initial Prediction: 
+- Initial Prediction: F(x) = average of all labels
+- this is because taking loss over all data points and minimizing the loss 
+
