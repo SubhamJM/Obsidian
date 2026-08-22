@@ -13,4 +13,8 @@
   prediction = average_output + learning_rate * (Decision tree output)
   ```
 
-> L
+> Learning rate is between (0, 1)
+
+### Example:
+
+![[Pasted image 20260822234111.png]]
