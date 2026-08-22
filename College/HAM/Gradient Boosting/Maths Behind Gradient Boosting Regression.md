@@ -17,6 +17,6 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 
 2. make a loop for m = 1 to M:
 	- compute residuals:
-		
+		![[Pasted image 20260823000606.png]]
 
 
