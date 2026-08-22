@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/AI Engineer/How LLMs Work/LLMs.md",
+                "file": "College/HAM/Gradient Boosting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLMs"
+              "title": "Gradient Boosting"
             }
           }
         ],
@@ -235,11 +235,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d43192d997da978e",
+  "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
+    "Study/AI Engineer/How LLMs Work/LLMs.md",
+    "College/HAM/Gradient Boosting.md",
+    "College/HAM/Gradient Boosting/Introduction.md",
+    "College/HAM/Gradient Boosting",
+    "College/HAM",
+    "HAM",
     "Study/AI Engineer/Langchain",
     "Study/AI Engineer/How LLMs Work/Embedding.md",
-    "Study/AI Engineer/How LLMs Work/LLMs.md",
     "Study/AI Engineer/How LLMs Work/Embeddings.md",
     "Study/AI Engineer/How LLMs Work/Tokens.md",
     "College/Java/OOP/What is OOP?.md",
@@ -269,19 +274,14 @@
     "Attachments/Pasted image 20260731190303.png",
     "Attachments/Pasted image 20260731190052.png",
     "College/Java",
-    "College",
     "Study/Pytorch/Autograd.md",
     "Projects/PII_Project/Results.md",
     "Projects/PII_Project/EDA.md",
     "Projects/PII_Project/Todo Before Presentation.md",
-    "Projects/PII_Project/Prototyping.md",
     "Attachments/1785402274615522771.png",
     "Attachments/1785402263053242641.png",
     "Attachments/Pasted image 20260730142712.png",
     "Attachments/1785400763029812891.png",
-    "Attachments/Pasted image 20260730140917.png",
-    "Projects/PII_Project",
-    "Study/Competitive Programming/Range Queries",
-    "Study/Competitive Programming/Bit Manipulation"
+    "Attachments/Pasted image 20260730140917.png"
   ]
 }
