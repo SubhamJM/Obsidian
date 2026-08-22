@@ -30,4 +30,6 @@
 
 ![[Pasted image 20260822234612.png]]
 
-- This way we keep adding more trees to reduce 
+- This way we keep adding more trees to reduce the residual (loss) and get closer values to the actual label.
+
+![[Pasted image 20260822234658.png]]
