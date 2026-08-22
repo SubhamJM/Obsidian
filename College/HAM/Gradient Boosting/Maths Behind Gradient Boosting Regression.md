@@ -7,4 +7,8 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 *Few terms:*
 1. Prediction Function => F(x) = gives prediction
 2. Loss function:
-	- L(yi, F(xi)) = 1/2(observed - predicted)<sup>12</sup>
+	- L(yi, F(xi)) = 1/2(observed - predicted)^2
+
+### Now:
+
+Initial Prediction: 
