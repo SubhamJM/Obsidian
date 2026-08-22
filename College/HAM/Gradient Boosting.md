@@ -27,3 +27,7 @@
 - All this means that future trees are *learning* from the mistakes of the past trees
   
   ![[Pasted image 20260822234440.png]]
+
+![[Pasted image 20260822234612.png]]
+
+- This way we keep adding more trees to reduce 
