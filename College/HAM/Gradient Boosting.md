@@ -1,3 +1,3 @@
 Basic Intuition (Understanding for regression):
-- it starts with a single leaf which only predicts the average value of the output values in training set.
-- It does 
+- it _starts_ with a _single leaf_ which only _predicts the average value_ of the output values in training set.
+- It then calculates ==residuals== = observed value - predicted value
