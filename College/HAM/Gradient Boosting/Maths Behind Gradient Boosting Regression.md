@@ -16,6 +16,7 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 	- this is because taking loss over all data points and minimizing the loss gets us F(x) as average of all labels
 
 2. make a loop for m = 1 to M:
-	- 
+	- compute residuals:
+		
 
 
