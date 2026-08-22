@@ -10,5 +10,7 @@
 
 - Now to predict values, it uses:
   ```python
-  average_output + learning_rate * (Decision tree made from features to predict )
+  prediction = average_output + learning_rate * (Decision tree output)
   ```
+
+> L
