@@ -5,4 +5,5 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 ## Maths behind Gradient boosting:
 
 *Few terms:*
-1. Loss function L(yi, F(xi))
+1. Prediction Function => F(x) = gives prediction
+2. 
