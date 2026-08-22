@@ -24,4 +24,6 @@ From [[Gradient Boosting (Regression)]], I got the intuition behind the algorith
 	- Now if a leaf has multiple values ending up there, we use this minimization of loss formula to determine the value at the leaf:
 		![[Pasted image 20260823001022.png]]
 
-	- This usually comes out to be average of the values in that leaf, for the loss function as defined 
+	- This usually comes out to be average of the values in that leaf, for the loss function as defined above.
+
+	- Now update the F(x) as 
