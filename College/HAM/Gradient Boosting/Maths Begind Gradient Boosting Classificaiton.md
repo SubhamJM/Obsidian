@@ -8,3 +8,7 @@
 
 > Here loss function is different from regression because classification has binary labels.
 
+![[Pasted image 20260823100736.png]]
+
+- This is called the negative log likelyhood
+> The better the prediction the larger the log likelyhood, so we 
