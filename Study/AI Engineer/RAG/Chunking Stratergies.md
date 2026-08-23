@@ -12,4 +12,6 @@
 	- Cuts sentences in middle
 	
 	**Application methods:**
-	- 
+	- Maybe overlap some amount of characters between chunks
+	
+	*Key*
