@@ -7,3 +7,9 @@
 	- It is the simplest method
 	- Only should be used for prototyping
 	
+	**Some Limitations**:
+	- Loses symantic meaning
+	- Cuts sentences in middle
+	
+	**Application methods:**
+	- 
