@@ -11,4 +11,6 @@
 ![[Pasted image 20260823100736.png]]
 
 - This is called the negative log likelyhood
-> The better the prediction the larger the log likelyhood, so we 
+
+> The better the prediction the larger the log likelyhood, so we multiply it by -1 to make it a loss function which we need to minimize.
+
