@@ -24,4 +24,10 @@ We fix some amount of characters to split the documents at
 
 *Application*:
 - Use recursive text splitters to capture coherent sections like paragraphs or sentences. 
--
+
+> Using things like '\n\n' and '\n' and maybe some headings for splitting chunks
+
+
+## 3. Metadata-Enriched chunking
+
+- Adding meta datas like page number, 
