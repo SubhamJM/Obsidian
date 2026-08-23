@@ -17,3 +17,8 @@
 - if one leaf contains many values then we find the value of the leaf as:
 ![[Pasted image 20260823095801.png]]
 
+- Now we predict again using this:
+![[Pasted image 20260823095839.png]]
+
+- This will only give a new log(odds) value
+  we have to then use the probability formula to calculate the probablity again
