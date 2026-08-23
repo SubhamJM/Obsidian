@@ -37,3 +37,9 @@ We fix some amount of characters to split the documents at
 
 ## 4. Parent-Child + (sliding Window)
 
+- Smaller chunks are good for embedding (more context rich)
+- but having many chunks increases search complexity during retrieval
+
+*Key idea*:
+- Having Parent chunk which is larger
+  and having child chunks that come under the parent chunks
