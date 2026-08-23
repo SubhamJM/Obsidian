@@ -30,4 +30,6 @@ We fix some amount of characters to split the documents at
 
 ## 3. Metadata-Enriched chunking
 
-- Adding meta datas like page number, 
+- Adding meta datas like page number, Headings, and all those to the documents itself.
+- Adding Metadata increases context of the chunk.
+- Easy to retrieve and filter
