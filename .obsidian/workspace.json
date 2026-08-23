@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/HAM/Gradient Boosting/Implementation.md",
+                "file": "Study/AI Engineer/RAG/Chunking Stratergies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation"
+              "title": "Chunking Stratergies"
             }
           }
         ]
@@ -206,11 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d43192d997da978e",
+  "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
-    "Study/AI Engineer/Untitled",
-    "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
     "College/HAM/Gradient Boosting/Implementation.md",
+    "Study/AI Engineer/RAG/Chunking Stratergies.md",
+    "Study/AI Engineer/RAG",
+    "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
     "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
     "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
     "Attachments/Pasted image 20260823101335.png",
@@ -252,7 +253,6 @@
     "College/Java/OOP",
     "College/Java/Methods/Scope.md",
     "College/Java/Methods",
-    "College/Java/Basic Programming/String.md",
-    "College/Java/Basic Programming"
+    "College/Java/Basic Programming/String.md"
   ]
 }
