@@ -18,4 +18,6 @@
 
 ![[Pasted image 20260823101210.png]]
 
-- The derivat
+- The derivative of the loss ultimately becomes the residuals:
+![[Pasted image 20260823101335.png]]
+
