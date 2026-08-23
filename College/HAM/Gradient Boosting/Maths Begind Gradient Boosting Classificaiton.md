@@ -21,3 +21,8 @@
 - The derivative of the loss ultimately becomes the residuals:
 ![[Pasted image 20260823101335.png]]
 
+
+
+# Steps to make the decision trees:
+
+- All the steps are now similar to [[Maths Begind Gradient Boosting Classificaiton]] after defining lo
