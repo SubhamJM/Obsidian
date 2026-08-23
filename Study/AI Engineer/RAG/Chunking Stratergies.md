@@ -46,3 +46,6 @@ We fix some amount of characters to split the documents at
 - The searching can happen with parent chunk's context
 - and after a parent chunk is retrived, then smaller chunks can be used to get rich contextual meaning
 
+
+## 5. Semantic chunking + Propositions
+
