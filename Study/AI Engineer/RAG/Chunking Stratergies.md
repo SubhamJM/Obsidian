@@ -2,4 +2,8 @@
 
 ### All the stratergies:
 
-1. *Fixed Size chun*
+1. *Fixed Size chunking:*
+	We fix some amount of characters to split the documents at 
+	- It is the simplest method
+	- Only should be used for prototyping
+	
