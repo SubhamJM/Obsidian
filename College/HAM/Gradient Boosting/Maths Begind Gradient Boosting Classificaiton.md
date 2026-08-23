@@ -14,6 +14,8 @@
 
 > The better the prediction the larger the log likelyhood, so we multiply it by -1 to make it a loss function which we need to minimize.
 
-- Converting 
+- Converting the predicted notation to log(odds) notation for convinience.
 
 ![[Pasted image 20260823101210.png]]
+
+- The derivat
