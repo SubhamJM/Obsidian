@@ -7,3 +7,7 @@
 
 - Now we compare it to a threshold like 0.5 and make predictions that all are yes.
 
+![[Pasted image 20260823095544.png]]
+
+- Now again we calculate the residuals using the predictions and observed value.
+
