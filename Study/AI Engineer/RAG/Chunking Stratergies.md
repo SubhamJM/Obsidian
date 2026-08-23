@@ -1,5 +1,5 @@
 - There are many different chunking stratergies for RAG Applications
-### 1 *Fixed Size chunking:*
+### 1. *Fixed Size chunking:*
 
 We fix some amount of characters to split the documents at 
 	- It is the simplest method
@@ -17,4 +17,6 @@ We fix some amount of characters to split the documents at
 	- Too large chunking = diluted context
 	- Should be an average sized chunking like 200-800 for better context grabbing
 
+
+## 2. Structure Aware chunking:
 
