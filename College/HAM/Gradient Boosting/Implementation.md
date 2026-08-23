@@ -1,3 +1,8 @@
 ## Dataset Used for Implementation:
 
-- Kaggle August Playground Dataset: For smartphone addiction prediction (A classification pro)
+- Kaggle August Playground Dataset: For smartphone addiction prediction (A classification problem)
+- [Kaggle Dataset](https://www.kaggle.com/competitions/playground-series-s6e8/overview)
+
+## Learnings During application:
+
+- The feature values need not be s
