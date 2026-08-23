@@ -43,3 +43,5 @@ We fix some amount of characters to split the documents at
 *Key idea*:
 - Having Parent chunk which is larger
   and having child chunks that come under the parent chunks
+- The searching can happen with parent chunk's context
+- and after a parent chunk is retrived, then smaller chunks can be used to get rich contextual meaning
