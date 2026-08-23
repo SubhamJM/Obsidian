@@ -20,3 +20,4 @@ We fix some amount of characters to split the documents at
 
 ## 2. Structure Aware chunking:
 
+- Creating symantically 
