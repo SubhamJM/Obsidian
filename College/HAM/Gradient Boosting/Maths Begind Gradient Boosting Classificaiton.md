@@ -25,4 +25,5 @@
 
 # Steps to make the decision trees:
 
-- All the steps are now similar to [[Maths Begind Gradient Boosting Classificaiton]] after defining lo
+- All the steps are now similar to [[Maths Begind Gradient Boosting Classificaiton]] after defining loss function and residuals for this classification problem.
+
