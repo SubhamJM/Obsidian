@@ -15,7 +15,8 @@
 
 - Now make a decision tree that predicts the residuals using the feature columns.
 
-> Similarly to [[Gradient Boosting (Regression)]] 
+> Similarly to [[Gradient Boosting (Regression)]] We usually keep 8 to 32 leaf nodes for predictions in these decision trees.
+
 - if one leaf contains many values then we find the value of the leaf as:
 ![[Pasted image 20260823095801.png]]
 

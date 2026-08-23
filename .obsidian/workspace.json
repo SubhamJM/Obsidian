@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+                "file": "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Boosting (Classification)"
+              "title": "Maths Begind Gradient Boosting Classificaiton"
             }
           }
         ]
@@ -208,13 +208,14 @@
   },
   "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
+    "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
+    "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
     "Attachments/Pasted image 20260823095839.png",
     "Attachments/Pasted image 20260823095801.png",
     "Attachments/Pasted image 20260823095544.png",
     "Attachments/Pasted image 20260823095440.png",
     "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
-    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
-    "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
     "Attachments/Pasted image 20260823001410.png",
     "Attachments/Pasted image 20260823001022.png",
     "Attachments/Pasted image 20260823000606.png",
@@ -222,7 +223,6 @@
     "Attachments/Pasted image 20260822234658.png",
     "Attachments/Pasted image 20260822234612.png",
     "Attachments/Pasted image 20260822234440.png",
-    "Attachments/Pasted image 20260822234111.png",
     "Study/AI Engineer/How LLMs Work/LLMs.md",
     "College/HAM/Gradient Boosting/Introduction.md",
     "College/HAM/Gradient Boosting",
