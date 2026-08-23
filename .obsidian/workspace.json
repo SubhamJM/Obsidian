@@ -206,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1c60375eed2b64",
+  "active": "d43192d997da978e",
   "lastOpenFiles": [
+    "Study/AI Engineer/Untitled",
     "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
     "College/HAM/Gradient Boosting/Implementation.md",
     "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
@@ -252,7 +253,6 @@
     "College/Java/Methods/Scope.md",
     "College/Java/Methods",
     "College/Java/Basic Programming/String.md",
-    "College/Java/Basic Programming",
-    "College/Java/Basic Programming/Math.md"
+    "College/Java/Basic Programming"
   ]
 }
