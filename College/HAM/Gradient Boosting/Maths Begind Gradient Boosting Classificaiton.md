@@ -14,3 +14,6 @@
 
 > The better the prediction the larger the log likelyhood, so we multiply it by -1 to make it a loss function which we need to minimize.
 
+- Converting 
+
+![[Pasted image 20260823101210.png]]
