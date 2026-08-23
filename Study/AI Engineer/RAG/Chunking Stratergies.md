@@ -20,4 +20,8 @@ We fix some amount of characters to split the documents at
 
 ## 2. Structure Aware chunking:
 
-- Creating symantically 
+- Creating symantically coherent chunks
+
+*Application*:
+- Use recursive text splitters to capture coherent sections like paragraphs or sentences. 
+-
