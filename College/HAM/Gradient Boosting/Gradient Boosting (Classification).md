@@ -21,4 +21,6 @@
 ![[Pasted image 20260823095839.png]]
 
 - This will only give a new log(odds) value
-  we have to then use the probability formula to calculate the probablity again
+  we have to then use the probability formula to calculate the probablity again.
+  
+Now calculate residuals again and repeat the whole process to make new trees.
