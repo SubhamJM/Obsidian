@@ -11,3 +11,6 @@
 
 - Now again we calculate the residuals using the predictions and observed value.
 
+## Making Trees:
+
+- Now make a decision tree that 
