@@ -13,4 +13,7 @@
 
 ## Making Trees:
 
-- Now make a decision tree that 
+- Now make a decision tree that predicts the residuals using the feature columns.
+- if one leaf contains many values then we find the value of the leaf as:
+![[Pasted image 20260823095801.png]]
+
