@@ -5,4 +5,4 @@
 
 ## Learnings During application:
 
-- The feature values need not be s
+- The feature values need not be standardised/normalized because xgboost just creates multiple decision trees and decision trees don't need standardised values.
