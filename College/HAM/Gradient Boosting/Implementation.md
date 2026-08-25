@@ -15,4 +15,4 @@
 > From community discussions i saw that the most we can pull is till 0.67 r2 score using optimized models.
 
 *finally*:
-I think that the score is pretty good for a de
+I think that the score is pretty good for a default xgboost.
