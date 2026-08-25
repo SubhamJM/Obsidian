@@ -6,3 +6,8 @@
 ## Learnings During application:
 
 - The feature values need not be standardised/normalized because xgboost just creates multiple decision trees and decision trees don't need standardised values.
+
+## Results:
+
+- Final R2 Score: 0.658
+- average percentage of error in prediction: ~
