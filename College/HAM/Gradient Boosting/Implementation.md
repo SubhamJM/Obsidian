@@ -10,4 +10,9 @@
 ## Results:
 
 - Final R2 Score: 0.658
-- average percentage of error in prediction: ~
+- average percentage of error in prediction: ~ 20%
+
+> From community discussions i saw that the most we can pull is till 0.67 r2 score using optimized models.
+
+*finally*:
+I think that the score is pretty good for a de
