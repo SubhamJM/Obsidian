@@ -8,7 +8,7 @@
 > **Note:**
 > Usually the total number of leaves in the tree is only allowed (set) between 8 and 32 in real world applications.
 
-- Now to predict values, it uses:
+- Now to predict values, it uses:    105\
   ```python
   prediction = average_output + learning_rate * (Decision tree output)
   ```
