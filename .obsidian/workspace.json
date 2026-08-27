@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 455.42451095581055
   },
   "right": {
     "id": "80b9ec752eb0c87b",
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1c60375eed2b64",
+  "active": "d43192d997da978e",
   "lastOpenFiles": [
     "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
     "College/HAM/Gradient Boosting/Implementation.md",
