@@ -11,12 +11,14 @@
             "id": "31076cf5332d43c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Gradient_Boosting_Export/assets/Pasted image 20260822234111.png"
+                "file": "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260822234111"
+              "icon": "lucide-file",
+              "title": "Gradient Boosting (Classification)"
             }
           }
         ]
@@ -206,10 +208,10 @@
   },
   "active": "d43192d997da978e",
   "lastOpenFiles": [
-    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
     "Gradient_Boosting_Export/README.md",
-    "assets/Pasted.md",
-    "assets",
+    "Gradient_Boosting_Export/assets/Pasted image 20260823001410.png",
+    "Gradient_Boosting_Export/assets/Pasted image 20260823001022.png",
+    "Gradient_Boosting_Export/assets/Pasted image 20260823000606.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823101335.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823101210.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823100736.png",
@@ -217,11 +219,11 @@
     "Gradient_Boosting_Export/assets/Pasted image 20260823095801.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823095544.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823095440.png",
-    "Gradient_Boosting_Export/assets/Pasted image 20260823001410.png",
-    "Gradient_Boosting_Export/assets/Pasted image 20260823001022.png",
-    "Gradient_Boosting_Export/assets/Pasted image 20260823000606.png",
     "Gradient_Boosting_Export/assets",
     "Gradient_Boosting_Export",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+    "assets/Pasted.md",
+    "assets",
     "merge.py",
     "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
     "College/HAM/Gradient Boosting/Implementation.md",
@@ -250,7 +252,6 @@
     "College/Java/Basic Programming/Operators.md",
     "College/Java/Basic Programming/Loops.md",
     "College/Java/Basic Programming/Datatypes.md",
-    "College/Java/Methods/Method Overloading.md",
-    "College/Java/Methods/Methods.md"
+    "College/Java/Methods/Method Overloading.md"
   ]
 }
