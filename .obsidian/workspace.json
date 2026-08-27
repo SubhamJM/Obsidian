@@ -11,14 +11,12 @@
             "id": "31076cf5332d43c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Gradient_Boosting_Export/README.md",
-                "mode": "source",
-                "source": false
+                "file": "Gradient_Boosting_Export/assets/Pasted image 20260822234111.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260822234111"
             }
           }
         ]
@@ -206,12 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31076cf5332d43c6",
+  "active": "d43192d997da978e",
   "lastOpenFiles": [
-    "assets/Pasted.md",
-    "Gradient_Boosting_Export/README.md",
-    "assets",
     "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+    "Gradient_Boosting_Export/README.md",
+    "assets/Pasted.md",
+    "assets",
     "Gradient_Boosting_Export/assets/Pasted image 20260823101335.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823101210.png",
     "Gradient_Boosting_Export/assets/Pasted image 20260823100736.png",
