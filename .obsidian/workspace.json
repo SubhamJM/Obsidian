@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
+                "file": "Archive/RAG with Hybrid Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Boosting (Regression)"
+              "title": "RAG with Hybrid Search"
             }
           }
         ]
@@ -208,9 +208,11 @@
   },
   "active": "5b1c60375eed2b64",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260827225109.png",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
+    "Archive/RAG with Hybrid Search.md",
     "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
     "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
-    "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
     "College/HAM/Gradient Boosting/Implementation.md",
     "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
     "Study/AI Engineer/RAG/Chunking Stratergies.md",
@@ -251,8 +253,6 @@
     "College/Java/Methods/Methods.md",
     "College/Java/Methods/Recursion.md",
     "College/Java/OOP",
-    "College/Java/Methods/Scope.md",
-    "College/Java/Methods",
-    "College/Java/Basic Programming/String.md"
+    "College/Java/Methods"
   ]
 }
