@@ -1,7 +1,6 @@
 import os
 import re
 import shutil
-import urllib.parse
 
 # --- Configuration ---
 VAULT_ROOT = "."
@@ -11,70 +10,86 @@ ATTACHMENTS_DIR = os.path.join(VAULT_ROOT, "Attachments")
 OUTPUT_DIR = os.path.join(VAULT_ROOT, "Gradient_Boosting_Export")
 OUTPUT_README = os.path.join(OUTPUT_DIR, "README.md")
 OUTPUT_ASSETS = os.path.join(OUTPUT_DIR, "assets")
+
+# Set exact note order here (filenames without path)
+NOTE_ORDER = [
+    "Maths Behind Gradient Boosting Regression.md",
+    "Gradient Boosting (Regression).md",
+    "Maths Behind Gradient Boosting Classification.md",
+    "Gradient Boosting (Classification).md",
+    "Implementation.md",
+]
 # ----------------------
 
 os.makedirs(OUTPUT_ASSETS, exist_ok=True)
 
-# Regex to match Obsidian embeds: ![[Pasted image ...png|400]] or ![[Pasted image ...png]]
-OBSIDIAN_IMG_PATTERN = re.compile(r"!\[\[(.*?)\]\]")
-# Regex to catch standard markdown embeds if present
-MD_IMG_PATTERN = re.compile(r"!\[(.*?)\]\((.*?)\)")
+# Matches ![[image.png]] or ![[image.png|400]] or standard markdown ![](...)
+WIKILINK_IMG_REGEX = re.compile(r"!\[\[(.*?)(?:\|.*?)?\]\]")
+STANDARD_IMG_REGEX = re.compile(r"!\[(.*?)\]\((.*?)\)")
 
 
-def process_image(img_raw_name):
-    # Strip any size parameters like "|400" or alt text
-    img_clean = img_raw_name.split("|")[0].strip()
-    filename = os.path.basename(img_clean)
+def resolve_and_copy_image(img_filename):
+    clean_filename = os.path.basename(img_filename.strip().split("|")[0])
 
-    # Search in Vault Attachments folder, Notes folder, or Vault root
-    candidates = [
-        os.path.join(ATTACHMENTS_DIR, filename),
-        os.path.join(NOTES_DIR, filename),
-        os.path.join(VAULT_ROOT, filename),
+    # Search in root Attachments folder, notes folder, or vault root
+    search_paths = [
+        os.path.join(ATTACHMENTS_DIR, clean_filename),
+        os.path.join(NOTES_DIR, clean_filename),
+        os.path.join(VAULT_ROOT, clean_filename),
     ]
 
-    source_path = next((p for p in candidates if os.path.exists(p)), None)
+    found_path = None
+    for path in search_paths:
+        if os.path.exists(path):
+            found_path = path
+            break
 
-    if source_path:
-        dest_path = os.path.join(OUTPUT_ASSETS, filename)
-        shutil.copy2(source_path, dest_path)
-        print(f" Copied: {filename}")
+    if found_path:
+        dest_path = os.path.join(OUTPUT_ASSETS, clean_filename)
+        shutil.copy2(found_path, dest_path)
+        return f"![{clean_filename}](assets/{clean_filename})"
     else:
-        print(f" Image missing from disk: {filename}")
+        print(f"⚠️ Image not found: {clean_filename}")
+        return f"![{clean_filename}](assets/{clean_filename})"
 
-    # URL-encode spaces so GitHub & Markdown renderers parse the path properly
-    encoded_filename = urllib.parse.quote(filename)
-    return f"![{filename}](assets/{encoded_filename})"
-
-
-# Grab all markdown files from the note directory
-md_files = sorted(
-    [
-        os.path.join(NOTES_DIR, f)
-        for f in os.listdir(NOTES_DIR)
-        if f.endswith(".md") and not f.startswith(".")
-    ]
-)
 
 combined_markdown = []
 
-for filepath in md_files:
-    print(f"\nProcessing: {os.path.basename(filepath)}")
+# Fallback: if filenames in NOTE_ORDER differ slightly, scan the directory directly
+files_to_process = []
+if all(os.path.exists(os.path.join(NOTES_DIR, f)) for f in NOTE_ORDER):
+    files_to_process = [os.path.join(NOTES_DIR, f) for f in NOTE_ORDER]
+else:
+    files_to_process = sorted(
+        [
+            os.path.join(NOTES_DIR, f)
+            for f in os.listdir(NOTES_DIR)
+            if f.endswith(".md")
+        ]
+    )
+
+print(f"Processing {len(files_to_process)} notes...")
+
+for filepath in files_to_process:
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 1. Convert ![[image.png]]
-    content = OBSIDIAN_IMG_PATTERN.sub(
-        lambda m: process_image(m.group(1)), content
+    # 1. Replace Obsidian Wikilink image embeds: ![[image.png]]
+    content = WIKILINK_IMG_REGEX.sub(
+        lambda m: resolve_and_copy_image(m.group(1)), content
     )
 
-    # 2. Convert standard ![](...) if any existed
-    content = MD_IMG_PATTERN.sub(lambda m: process_image(m.group(2)), content)
+    # 2. Replace standard Markdown image paths if any exist
+    content = STANDARD_IMG_REGEX.sub(
+        lambda m: resolve_and_copy_image(m.group(2)), content
+    )
 
     combined_markdown.append(content.strip())
 
-# Write out the combined README
+# Write combined output
 with open(OUTPUT_README, "w", encoding="utf-8") as f:
     f.write("\n\n---\n\n".join(combined_markdown))
 
-print(f"\n README.md generated successfully at: {OUTPUT_README}")
+print(f"\n Export complete:")
+print(f"- Combined File: {OUTPUT_README}")
+print(f"- Copied Images: {OUTPUT_ASSETS}")
