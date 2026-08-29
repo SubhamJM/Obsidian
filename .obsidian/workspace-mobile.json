@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Competitive Programming/Bit Manipulation.md",
+                "file": "College/IDE/Questions to ask (Earbuds).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit Manipulation"
+              "title": "Questions to ask (Earbuds)"
             }
           }
         ]
@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -112,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Study/Competitive Programming/Bit Manipulation.md",
+            "file": "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Study/Competitive Programming/Bit Manipulation.md",
+            "file": "Study/Competitive Programming/Bit Manipulation/Bit Operations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Study/Competitive Programming/Bit Manipulation.md",
+            "file": "Study/Competitive Programming/Bit Manipulation/Bit Operations.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,32 +173,51 @@
   },
   "active": "9940fac5f4b88387",
   "lastOpenFiles": [
-    "Study/Machine Learning/Cross-Validation.md",
-    "/Study/Competitive Programming/Bit Manipulation.md",
-    "/Study/Competitive Programming",
-    "/Study",
-    "Study/Machine Learning/Bias-Variance Tradeoff.md",
-    "Study/Transformers/Attention Is All You Need.md",
-    "Study/Pytorch/Tensors.md",
-    "Study/Pytorch/BasicNeuralNetwork (without Pytorch).md",
-    "Study/Pytorch/Autograd.md",
+    "Study/AI Engineer/How LLMs Work/LLMs.md",
+    "Study/AI Engineer/How LLMs Work/Embeddings.md",
+    "Study/Competitive Programming/Bit Manipulation/Bit Representation.md",
     "Study/Machine Learning/Underfitting.md",
-    "Study/Machine Learning/Regularization.md",
-    "Study/Machine Learning/Overfitting.md",
-    "Study/Competitive Programming/Bit Manipulation.md",
-    "Attachments/underfitting_vs_overfitting.png",
-    "Attachments/Transformer_Architecture.png",
-    "Attachments/Dtypes_in_torch.png",
-    "Attachments/Double_descent.png",
-    "Attachments/Bias_variance2.png",
-    "Attachments/Bias-Variance.png",
-    "Study/Transformers",
-    "Study/Pytorch",
-    "Study/Machine Learning",
-    "Study/Competitive Programming",
-    "Study",
-    "Resources",
-    "Projects",
-    "Attachments"
+    "Study/Machine Learning/Cross-Validation.md",
+    "Study/Machine Learning/Bias-Variance Tradeoff.md",
+    "College/IDE/Questions to ask (Earbuds).md",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+    "College/IDE",
+    "assets/Pasted.md",
+    "/College/Java/OOP",
+    "/College/Java",
+    "/College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
+    "/College/HAM/Gradient Boosting",
+    "/College/HAM",
+    "/College",
+    "/Attachments/Pasted image 20260827225109.png",
+    "Attachments/Pasted image 20260827225109.png",
+    "/Attachments",
+    "/Archive/RAG with Hybrid Search.md",
+    "Archive/RAG with Hybrid Search.md",
+    "/Archive",
+    "/assets/Pasted.md",
+    "assets",
+    "/assets",
+    "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
+    "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
+    "College/HAM/Gradient Boosting/Implementation.md",
+    "Study/AI Engineer/RAG/Chunking Stratergies.md",
+    "College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
+    "Attachments/Pasted image 20260823101335.png",
+    "Attachments/Pasted image 20260823101210.png",
+    "Attachments/Pasted image 20260823100736.png",
+    "Attachments/Pasted image 20260823095839.png",
+    "Attachments/Pasted image 20260823095801.png",
+    "Attachments/Pasted image 20260823095544.png",
+    "Attachments/Pasted image 20260823095440.png",
+    "Attachments/Pasted image 20260823001410.png",
+    "/Study/AI Engineer/RAG/Chunking Stratergies.md",
+    "/College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
+    "/College/HAM/Gradient Boosting/Maths Begind Gradient Boosting Classificaiton.md",
+    "/College/HAM/Gradient Boosting/Implementation.md",
+    "/College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+    "Projects/PII_Project/EDA.md",
+    "Study/Pytorch/Simple torch.nn Use.md",
+    "Study/AI Engineer/How LLMs Work/Tokens.md"
   ]
 }
