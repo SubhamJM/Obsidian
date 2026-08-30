@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+                "file": "College/IDE/Assignment-1 Learnings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Boosting (Classification)"
+              "title": "Assignment-1 Learnings"
             }
           }
         ]
@@ -206,8 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d43192d997da978e",
+  "active": "31076cf5332d43c6",
   "lastOpenFiles": [
+    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
+    "College/IDE/Assignment-1 Learnings.md",
+    "College/IDE/Assignment-1 Learning",
+    "Untitled.base",
+    "College/IDE/Questions to ask (Earbuds).md",
+    "College/IDE",
     "Gradient_Boosting.zip",
     "Gradient_Boosting/assets/Pasted image 20260823101335.png",
     "Gradient_Boosting/assets/Pasted image 20260823101210.png",
@@ -227,12 +233,7 @@
     "Gradient_Boosting_Export/gradient_boosting_regression.py",
     "Gradient_Boosting_Export/Gradient_Boosting_Regression(1).ipynb",
     "Gradient_Boosting_Export/README.md",
-    "Gradient_Boosting_Export/assets",
-    "Gradient_Boosting_Export",
-    "College/HAM/Gradient Boosting/Gradient Boosting (Classification).md",
     "assets/Pasted.md",
-    "assets",
-    "merge.py",
     "College/HAM/Gradient Boosting/Gradient Boosting (Regression).md",
     "College/HAM/Gradient Boosting/Implementation.md",
     "Archive/RAG with Hybrid Search.md",
@@ -252,7 +253,6 @@
     "College/Java/Basic Programming/Arrays.md",
     "College/Java/Basic Programming/Conditionals.md",
     "College/Java/Basic Programming/Operators.md",
-    "College/Java/Basic Programming/Loops.md",
-    "College/Java/Basic Programming/Datatypes.md"
+    "College/Java/Basic Programming/Loops.md"
   ]
 }
