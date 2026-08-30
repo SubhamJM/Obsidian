@@ -9,3 +9,4 @@
 
 
 - Formulating user's statement into a product centric need (idealistic statement about problem) instead of just translating the user statement into a user specific need.
+- the product "should" and negative things shouldn't be written in the interpreted need, the statement should be idealist
