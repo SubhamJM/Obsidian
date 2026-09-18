@@ -33,3 +33,15 @@ ppois(3, 4)
 # 95th percentile:
 qpois(0.95, 4)
 ```
+
+# Normal Distribution:
+
+```r
+dnorm → density
+pnorm → cumulative probability
+qnorm → percentile
+rnorm → random values
+
+
+
+```
