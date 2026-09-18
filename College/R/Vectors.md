@@ -25,5 +25,6 @@ rev(x)
 
 ```r
 marks <- c(1,2,3,4,5)
-marks[marks>=3] # gives c(3,)
+marks[marks>=3] # gives c(3,4,5)
 ```
+
