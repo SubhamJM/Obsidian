@@ -42,6 +42,10 @@ pnorm → cumulative probability
 qnorm → percentile
 rnorm → random values
 
-
-
+# eg
+dnorm(80, mean=72, sd=11)
 ```
+
+> **Z score:**
+> Z = (x - mean) / sd
+
