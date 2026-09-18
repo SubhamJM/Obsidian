@@ -19,6 +19,9 @@ median(x)
 sort(x)
 unique(x)
 rev(x)
+
+toupper(x)
+tolower(x)
 ```
 
 # Logical Indexing:
