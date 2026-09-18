@@ -4,5 +4,7 @@ add_members <- function(a, b){
 	return (result)
 }
 
-add_numbers <- 
+add_numbers <- function(a, b){
+	a + b
+}
 ```
