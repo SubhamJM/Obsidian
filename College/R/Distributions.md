@@ -30,5 +30,6 @@ dpois(3, 4)
 # at most x P(X <= 3)
 ppois(3, 4)
 
-
+# 95th percentile:
+qpois(0.95, 4)
 ```
