@@ -36,3 +36,10 @@ A * B
 ```r
 A %*% B
 ```
+
+# rbind() and cbind()
+
+```r
+rbind(A, B) # row-wise binding 
+
+```
