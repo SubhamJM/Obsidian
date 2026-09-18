@@ -36,6 +36,6 @@ which(x > 20) # returns 3 4 5 as they satisfy
 
 which.max(x)
 which.min(x)
-# returns max and min index 
+# returns max and min index of array
 ```
 
