@@ -20,3 +20,16 @@ check_result <- function(marks, passing_mark = 35){
 	}
 }
 ```
+
+# Returning multiple things:
+
+```r
+student_info <- function(marks){
+	return (
+		list(
+			highest = max(marks),
+			lowest = 
+		)	
+	)
+}
+```
