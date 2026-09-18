@@ -13,7 +13,7 @@
 
 
 - x += 5 increases the value of x by 5
-- only works on numbers as mentioned in [[Datatypes]]
+- only works on numbers as mentioned in [[College/Java/Basic Programming/Datatypes]]
 
 
 ## Comparision operators:
