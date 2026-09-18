@@ -11,3 +11,5 @@ f_prime <- D(expr, "x")
 print(f_prime)
 # Output: 3 * (2 * x) + 10
 ```
+
+# Evaluating
