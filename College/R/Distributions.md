@@ -54,4 +54,6 @@ dnorm(80, mean=72, sd=11)
 > p, d, q, r have same meaning throughout
 > p - cummulative
 > d - exactly at x
-> q 
+> q - quantile
+> r - random experiments
+
