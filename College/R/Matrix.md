@@ -21,3 +21,18 @@ A[2, ]
 A[,3]
 # select entire 3rd column
 ```
+
+# Matrix arithematic:
+
+```r
+# All do element wise operations
+A + B
+A / B
+A * B 
+```
+
+# Matrix Multiplication:
+
+```r
+A %*% B
+```
