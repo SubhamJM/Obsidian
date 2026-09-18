@@ -40,3 +40,20 @@ f <- function(x) {
 
 integrate(f, lower=0, upper=2)
 ```
+
+# Optimize:
+
+```r
+# 1. Define the function
+my_function <- function(x) {
+  return((x - 3)^2 + 5)
+}
+
+# 2. Run the optimization to find the minimum
+result <- optimize(f = my_function, interval = c(0, 10), maximum = FALSE)
+
+# 3. View results
+results$minimum
+
+
+```
