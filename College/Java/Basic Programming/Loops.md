@@ -30,4 +30,4 @@ while (condition)
 ```
 
 
-- Mostly used when looping through [[Arrays]] or [[String]]
+- Mostly used when looping through [[College/Java/Basic Programming/Arrays]] or [[String]]

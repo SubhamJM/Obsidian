@@ -44,3 +44,9 @@ rbind(A, B) # row-wise binding
 cbind(A, B) # column wise binding
 ```
 
+# conditional matrix replacement
+
+```r
+A[A < 30] <- 0
+# sets all elements less than 30 to 0
+```
