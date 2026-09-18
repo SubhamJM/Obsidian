@@ -20,3 +20,12 @@ names[idx]
 marks[idx]
 ```
 
+# Rank:
+
+- Gives a vector with rank of each element
+
+```r
+x <- c(40, 10, 30, 20)
+rank(x)
+# Output: 4 1 3 2
+```
