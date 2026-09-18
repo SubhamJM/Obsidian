@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/R/Sorting and ranking.md",
+                "file": "College/R/Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting and ranking"
+              "title": "Calculus"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "31076cf5332d43c6",
   "lastOpenFiles": [
-    "College/R/Matrix.md",
     "College/R/Sorting and ranking.md",
+    "College/R/Calculus.md",
+    "College/R/Matrix.md",
     "College/R/Vectors.md",
     "College/R/Arrays.md",
     "College/R/Factors.md",
@@ -252,7 +253,6 @@
     "College/HAM/Gradient Boosting/Maths Behind Gradient Boosting Regression.md",
     "Study/AI Engineer/RAG/Chunking Stratergies.md",
     "Study/AI Engineer/How LLMs Work/LLMs.md",
-    "College/HAM/Gradient Boosting/Introduction.md",
-    "Study/AI Engineer/How LLMs Work/Embedding.md"
+    "College/HAM/Gradient Boosting/Introduction.md"
   ]
 }
