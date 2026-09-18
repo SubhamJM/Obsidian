@@ -20,3 +20,15 @@ while (i <= 10){
 }
 ```
 
+# break & next
+
+```r
+for (i in 1:10){
+	if (i %% 2 == 0){
+		next
+	}
+	if (i %% 7 == 0){
+		break
+	}
+}
+```
