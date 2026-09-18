@@ -8,3 +8,15 @@ add_numbers <- function(a, b){
 	a + b
 }
 ```
+
+# Default Arguments
+
+```r
+check_result <- function(marks, passing_mark = 35){
+	if (marks >= pass_mark){
+		return("pass")
+	} else{
+		return ("fail")
+	}
+}
+```
