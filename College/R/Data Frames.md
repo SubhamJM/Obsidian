@@ -16,3 +16,21 @@ str(product_info)
 summary(product_info)
 ```
 
+# Selecting columns
+
+```r
+product_info$product_name
+
+product_info[, "product_name"]
+
+# multiple cols
+product_info[, c("product_name", "price")]
+```
+
+# Filtering rows
+
+```r
+product_info[product_info$available == TRUE, ]
+
+product_info[product_info$price > 100, ]
+```
