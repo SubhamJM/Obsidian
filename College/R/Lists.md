@@ -9,7 +9,8 @@ patient <- list(
 # Accessing:
 
 ```r
-patient$patient_name
-patient[["patient_name"]] #
+patient$patient_name #value
+patient[["patient_name"]] #value
 patient["patient_name"]  # list
 ```
+
