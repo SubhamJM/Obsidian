@@ -28,7 +28,7 @@ student_info <- function(marks){
 	return (
 		list(
 			highest = max(marks),
-			lowest = 
+			lowest = min(marks)
 		)	
 	)
 }
