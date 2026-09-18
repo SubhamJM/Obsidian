@@ -10,5 +10,12 @@ vec <- c(1,2,3,4,5)
 # Vector methods:
 
 ```r
-
+length(x)
+sum(x)
+min(x)
+max(x)
+mean(x)
+median(x)
+sort(x)
+unique(x)
 ```
