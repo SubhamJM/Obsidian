@@ -41,5 +41,6 @@ A %*% B
 
 ```r
 rbind(A, B) # row-wise binding 
-
+cbind(A, B) # column wise binding
 ```
+
