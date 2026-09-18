@@ -50,10 +50,12 @@ my_function <- function(x) {
 }
 
 # 2. Run the optimization to find the minimum
-result <- optimize(f = my_function, interval = c(0, 10), maximum = FALSE)
+result <- optimize(my_function, interval = c(0, 10), maximum = FALSE)
 
 # 3. View results
 results$minimum
-
-
+results$objective
 ```
+
+- objective - value of x for which it is minimum
+- objective - minimum value of function
