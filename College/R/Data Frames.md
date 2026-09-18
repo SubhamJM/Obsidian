@@ -34,3 +34,18 @@ product_info[product_info$available == TRUE, ]
 
 product_info[product_info$price > 100, ]
 ```
+
+# adding and removing cols:
+
+```r
+# adding
+product_info$Membership <- c(
+    "Gold",
+    "Silver",
+    "Gold"
+)
+
+# removing
+product_info$Membership <- NULL
+```
+
