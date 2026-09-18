@@ -12,4 +12,31 @@ print(f_prime)
 # Output: 3 * (2 * x) + 10
 ```
 
-# Evaluating
+# Evaluating derivative:
+
+```r
+# Define the math expression
+expr <- expression(x^3 + 2*x^2 + 5)
+
+# Calculate the first derivative with respect to "x"
+df_dx <- D(expr, "x")
+print(df_dx)
+# Output: 3 * x^2 + 2 * (2 * x)
+
+# Evaluate at a specific value (e.g., x = 3)
+x <- 3
+eval(df_dx) 
+# Output: 39
+
+```
+
+
+# Integration:
+
+```r
+f <- function(x) {
+    x^2
+}
+
+integrate(f, lower=0, upper=2)
+```
