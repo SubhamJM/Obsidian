@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/R/Vectors.md",
+                "file": "College/R/Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors"
+              "title": "Matrix"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "31076cf5332d43c6",
   "lastOpenFiles": [
+    "College/R/Vectors.md",
     "College/R/Arrays.md",
     "College/R/Factors.md",
     "College/R/Lists.md",
@@ -215,7 +216,6 @@
     "College/R/Matrix.md",
     "College/R/Functions.md",
     "College/R/Untitled",
-    "College/R/Vectors.md",
     "College/R/Loops.md",
     "College/R/Datatypes.md",
     "College/R/Conditionals.md",

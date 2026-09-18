@@ -50,3 +50,22 @@ cbind(A, B) # column wise binding
 A[A < 30] <- 0
 # sets all elements less than 30 to 0
 ```
+
+# apply
+
+```r
+marks <- matrix(
+    c(
+        82,76,89,
+        65,71,74,
+        93,87,95,
+        70,81,78
+    ),
+    nrow=4,
+    byrow=TRUE
+)
+
+apply(marks, 1, mean)
+# returns a list of mean value of each row
+# 1 - row, 2 - col
+```
