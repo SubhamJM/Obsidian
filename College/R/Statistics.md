@@ -9,4 +9,10 @@ cumsum(production)
 #492
 ```
 
-- To find which 
+- To find at which point the probability reaches 90%
+
+```r
+prob <- c(0.1, 0.2, 0.3, 0.4)
+
+which(cumsum(prob) >= 0.90)[1]
+```
