@@ -22,5 +22,13 @@ x <- rbinom( 1000, size=10, prob=0.3 )
 # Poisson Distribution:
 
 ```r
+# exactly x events occur
+dpois(x, lambda=4)
+#eg
+dpois(3, 4)
+
+# at most x P(X <= 3)
+ppois(3, 4)
+
 
 ```
