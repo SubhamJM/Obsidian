@@ -18,4 +18,12 @@ mean(x)
 median(x)
 sort(x)
 unique(x)
+rev(x)
+```
+
+# Logical Indexing:
+
+```r
+marks <- c(1,2,3,4,5)
+marks[marks>=3] # gives c(3,)
 ```
