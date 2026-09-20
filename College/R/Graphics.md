@@ -15,4 +15,5 @@ plot(
 
 #adds point and line to existing plot:
 points(x, y)
+lines(x, y)
 ```
