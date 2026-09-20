@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/R/Lists.md",
+                "file": "College/R/Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lists"
+              "title": "Calculus"
             }
           }
         ]
@@ -208,6 +208,10 @@
   },
   "active": "31076cf5332d43c6",
   "lastOpenFiles": [
+    "College/R/Functions.md",
+    "College/R/Graphics.md",
+    "College/R/Linear Algebra.md",
+    "College/R/Lists.md",
     "College/R/Loops.md",
     "College/R/Matrix.md",
     "College/R/Sorting and ranking.md",
@@ -215,14 +219,10 @@
     "College/R/Vectors.md",
     "College/R/Calculus.md",
     "College/R/Arrays.md",
-    "College/R/Graphics.md",
     "College/SIH.md",
     "College/R/Distributions.md",
-    "College/R/Linear Algebra.md",
     "College/R/Factors.md",
-    "College/R/Lists.md",
     "College/R/Data Frames.md",
-    "College/R/Functions.md",
     "College/R/Untitled",
     "College/R/Datatypes.md",
     "College/R/Conditionals.md",
