@@ -17,3 +17,13 @@ plot(
 points(x, y)
 lines(x, y)
 ```
+
+# abline()
+
+```r
+#adds horizontal or vertical lines:
+abline(h=0)
+abline(v=0)
+abline(model) # regression
+```
+
