@@ -58,5 +58,17 @@ curve( x^2 - 4*x + 5, from=0, to=6) # forms a curve
 ```r
 hist(marks)
 
+breaks <- seq(30, 100, by=10)
 
+h <- hist(
+    marks,
+    breaks=breaks
+)
+
+#this labels the bar graphs with count
+text(
+    h$mids,
+    h$counts,
+    labels=h$counts
+)
 ```
