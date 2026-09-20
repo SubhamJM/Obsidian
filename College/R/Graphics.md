@@ -72,3 +72,11 @@ text(
     labels=h$counts
 )
 ```
+
+# Density
+
+```r
+# smoothing out histogram
+d <- density(marks)
+plot(d)
+```
