@@ -34,7 +34,7 @@ legend(
     "topright",
     legend=c("sin(x)", "cos(x)"),
     lty=c(1,2),
-    col=c(1,2)  # deafults
+    col=c(1,2)  # deafultsq
 )
 # lty = line type
 1 = solid
@@ -44,4 +44,11 @@ legend(
 5 = longdash
 # col = color
 
+```
+
+
+# Curve
+
+```r
+curve( x^2 - 4*x + 5, from=0, to=6) # forms a curve
 ```
