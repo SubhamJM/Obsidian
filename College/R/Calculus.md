@@ -57,5 +57,5 @@ results$minimum
 results$objective
 ```
 
-- objective - value of x for which it is minimum
+- minimum - value of x for which it is minimum
 - objective - minimum value of function
