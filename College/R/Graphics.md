@@ -34,7 +34,7 @@ legend(
     "topright",
     legend=c("sin(x)", "cos(x)"),
     lty=c(1,2),
-    col=c(1,2)
+    col=c(1,2)  # deafults
 )
 # lty = line type
 1 = solid
