@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/R/Matrix.md",
+                "file": "College/R/Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "Lists"
             }
           }
         ]
@@ -208,6 +208,8 @@
   },
   "active": "31076cf5332d43c6",
   "lastOpenFiles": [
+    "College/R/Loops.md",
+    "College/R/Matrix.md",
     "College/R/Sorting and ranking.md",
     "College/R/Statistics.md",
     "College/R/Vectors.md",
@@ -217,13 +219,11 @@
     "College/SIH.md",
     "College/R/Distributions.md",
     "College/R/Linear Algebra.md",
-    "College/R/Matrix.md",
     "College/R/Factors.md",
     "College/R/Lists.md",
     "College/R/Data Frames.md",
     "College/R/Functions.md",
     "College/R/Untitled",
-    "College/R/Loops.md",
     "College/R/Datatypes.md",
     "College/R/Conditionals.md",
     "College/IDE/Assignment-1 Learnings.md",
