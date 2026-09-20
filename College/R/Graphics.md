@@ -27,3 +27,16 @@ abline(v=0)
 abline(model) # regression
 ```
 
+# Legend
+
+```r
+legend(
+    "topright",
+    legend=c("sin(x)", "cos(x)"),
+    lty=c(1,2),
+    col=c(1,2)
+)
+# lty = line type
+# col = 
+
+```
