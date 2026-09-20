@@ -37,6 +37,11 @@ legend(
     col=c(1,2)
 )
 # lty = line type
-# col = 
+1 = solid
+2 = dashed
+3 = dotted
+4 = dotdash
+5 = longdash
+# col = color
 
 ```
