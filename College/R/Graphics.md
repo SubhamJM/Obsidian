@@ -52,3 +52,11 @@ legend(
 ```r
 curve( x^2 - 4*x + 5, from=0, to=6) # forms a curve
 ```
+
+# Histogram
+
+```r
+hist(marks)
+
+
+```
