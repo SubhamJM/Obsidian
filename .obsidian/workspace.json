@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/R/Graphics.md",
+                "file": "College/R/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphics"
+              "title": "Vectors"
             }
           }
         ]
@@ -208,16 +208,16 @@
   },
   "active": "31076cf5332d43c6",
   "lastOpenFiles": [
-    "College/SIH.md",
+    "College/R/Calculus.md",
+    "College/R/Arrays.md",
     "College/R/Graphics.md",
+    "College/SIH.md",
     "College/R/Statistics.md",
     "College/R/Distributions.md",
     "College/R/Linear Algebra.md",
-    "College/R/Calculus.md",
     "College/R/Sorting and ranking.md",
     "College/R/Matrix.md",
     "College/R/Vectors.md",
-    "College/R/Arrays.md",
     "College/R/Factors.md",
     "College/R/Lists.md",
     "College/R/Data Frames.md",
