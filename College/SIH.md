@@ -25,7 +25,7 @@ inside the diagram, transcribes any audio, extracts tables properly, and tags ev
 
 
 
-"Now, this is where most AI tools fail, but Parashmani shines: The Dual-Pane Review Workspace.
+Now, this is where most AI tools fail, but Parashmani shines: The Dual-Pane Review Workspace.
 
 We know that in serious business or defense, you can't just blindly trust what an AI generates. You have to verify it
 
@@ -34,3 +34,15 @@ sentences?
 
 Watch this: when I click [Asrc-1], boom! The screen automatically scrolls on the left and highlights the exact page and table in the original PDF where that fact
 came from. No guessing, no digging through 50-page documents to double-check numbers. It’s 100% transparent and auditable."
+
+
+
+
+"Now let's talk about safety. What if your original report had sensitive internal IP addresses, server names, or passwords?
+?arashmani has a built-in sensitivity scanner running in the background. Look right here-it instantly caught this internal IP address and highlighted it in red
+
+if I click on it, this neat little popover gives me full control: I can choose to Redact it, Accept it if it’s fine, or completely Delete it. I’'11 click
+Redact-and just like that, it safely masks the IP without messing up the rest of the text or formatting.
+
+on top of that, we have an anti-hallucination engine that double-checks whether every claim actually matches the source, and a readability meter that ensures our
+2xecutive summary doesn't sound like a complicated physics textbook."
